@@ -22,12 +22,12 @@ repository               : "wu-lichao/wu-lichao.github.io"
 author:
   # Biographic information
   avatar           : "my_photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Lichao Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher @ TU Darmstadt"
   location         : "Darmstadt, Germany"
   employer         : "TU Darmstadt"
-  uri              : # URL
+  URI              : "https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_137920.en.jsp"
   email            : "lichao.wu9@gmail.com" 
 
   # Academic websites
