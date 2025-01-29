@@ -3,7 +3,7 @@ title: "Weakly Profiling Side-channel Analysis"
 collection: publications
 category: conferences
 permalink: /publication/tches24_weakly_profiling_sca
-excerpt: A novel physical SCA that uses plaintexts as labels for the key recovery.
+excerpt: false
 date: 2024-04-01
 venue: 'IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024'
 paperurl: 'https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738'
