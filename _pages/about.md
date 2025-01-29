@@ -13,13 +13,13 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 
 ## News  
 
-- **January 2025**: Our paper **GenHuzz: An Efficient Generative Hardware Fuzzer** was accepted at **USENIX Security'25**.
-- **January 2025**: Serves as the programme committee of **CCS'25**.
-- **November 2024**: Our paper on **HFL: Hardware Fuzzing Loop with Reinforcement Learning** was accepted at **Design, Automation and Test in Europe Conference (DATE)'25**.
-- **October 2024**: Serves as the programme committee of **USENIX Security'25**.
-- **August 2024**: Our paper **It’s a Kind of Magic: A Novel Conditional GAN Framework for
-  Efficient Profiling Side-channel Analysis** was accepted at **ASIACRYPT'24**.
-- **July 2024**: Our paper **Leakage Model-flexible Deep Learning-based Side-channel
-  Analysis** was accepted at **IACR Communications in Cryptology (CiC)'24**.
-- **July 2024**: Our paper **Plaintext-based Side-channel Collision Attack** was accepted at **IACR Communications in Cryptology (CiC)'24**.
-- **April 2024**: Our paper **Weakly Profiling Side-channel Analysis** was accepted at **IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24**.
+- **January 2025**: Our paper *"GenHuzz: An Efficient Generative Hardware Fuzzer"* was accepted at *USENIX Security'25*.
+- **January 2025**: Serves as the programme committee of *CCS'25*.
+- **November 2024**: Our paper *"HFL: Hardware Fuzzing Loop with Reinforcement Learning"* was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
+- **October 2024**: Serves as the programme committee of *USENIX Security'25*.
+- **August 2024**: Our paper [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
+  Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4) was accepted at *ASIACRYPT'24*.
+- **July 2024**: Our paper [*"Leakage Model-flexible Deep Learning-based Side-channel
+  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
+- **July 2024**: Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
+- **April 2024**: Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24*.
