@@ -2,6 +2,7 @@
 title: "It’s a Kind of Magic: A Novel Conditional GAN Framework for Efficient Profiling Side-Channel Analysis"
 collection: publications
 category: conferences
+permalink: /publication/asiacrypt24_gan_sca
 date: 2024-12-01
 venue: 'ASIACRYPT 2024'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-96-0944-4_4'
