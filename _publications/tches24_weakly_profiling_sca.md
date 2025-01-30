@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/tches24_weakly_profiling_sca
 excerpt: false
 date: 2024-04-01
-venue: 'IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2024'
+venue: 'IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'
 paperurl: 'https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738'
 citation: 'Wu, Lichao, Guilherme Perin, and Stjepan Picek. "Weakly Profiling Side-channel Analysis." IACR Transactions on Cryptographic Hardware and Embedded Systems 2024.3 (2024): 707-730.'
 ---
