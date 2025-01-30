@@ -15,11 +15,8 @@ main:
     url: /talks/    
 
   - title: "Blog Posts"
-    url: /posts/
+    url: /year-archive/
 
-  - title: "Misc"
-    url: /misc/
-  
   # - title: "Portfolio"
   #   url: /portfolio/
         
