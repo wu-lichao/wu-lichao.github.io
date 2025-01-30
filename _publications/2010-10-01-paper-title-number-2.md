@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Reinforcement learning for hyperparameter tuning in deep learning-based side-channel analysis"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/asiacrypt24_gan_sca
+excerpt: false
+date: 2021-07-19
+venue: 'IACR Transactions on Cryptographic Hardware and Embedded Systems'
+paperurl: '[https://tches.iacr.org/index.php/TCHES/article/view/8989/8566]'
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Deep learning represents a powerful set of techniques for profiling sidechannel analysis. The results in the last few years show that neural network architectures like multilayer perceptron and convolutional neural networks give strong attack performance where it is possible to break targets protected with various countermeasures. Considering that deep learning techniques commonly have a plethora of hyperparameters to tune, it is clear that such top attack results can come with a high price in preparing the attack. This is especially problematic as the side-channel community commonly uses random search or grid search techniques to look for the best hyperparameters.
+
+In this paper, we propose to use reinforcement learning to tune the convolutional neural network hyperparameters. In our framework, we investigate the Q-Learning paradigm and develop two reward functions that use side-channel metrics. We mount an investigation on three commonly used datasets and two leakage models where the results show that reinforcement learning can find convolutional neural networks exhibiting top performance while having small numbers of trainable parameters. We note that our approach is automated and can be easily adapted to different datasets. Several of our newly developed architectures outperform the current state-of-the-art results. Finally, we make our source code publicly available.
