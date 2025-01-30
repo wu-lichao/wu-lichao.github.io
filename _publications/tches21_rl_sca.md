@@ -7,7 +7,7 @@ excerpt: false
 date: 2021-07-19
 venue: 'IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'
 paperurl: 'https://tches.iacr.org/index.php/TCHES/article/view/8989/8566'
-citation: ''
+citation: false
 ---
 
 Deep learning represents a powerful set of techniques for profiling side-channel analysis. The results in the last few years show that neural network architectures like multilayer perceptron and convolutional neural networks give strong attack performance where it is possible to break targets protected with various countermeasures. Considering that deep learning techniques commonly have a plethora of hyperparameters to tune, it is clear that such top attack results can come with a high price in preparing the attack. This is especially problematic as the side-channel community commonly uses random search or grid search techniques to look for the best hyperparameters.
