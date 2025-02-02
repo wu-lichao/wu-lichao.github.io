@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi there, I'm Lichao"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
