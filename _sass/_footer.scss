@@ -10,9 +10,9 @@
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  // position: absolute;
-  // bottom: 0em;
-  // height: auto;
+  /* position: absolute; */
+  /* bottom: 0em; */
+  /* height: auto; */
   /* sticky footer fix end */
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
@@ -27,9 +27,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 2em;
     max-width: 100%;
-    padding: 0 1em 1em;
+    padding: 0 1em 2em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
