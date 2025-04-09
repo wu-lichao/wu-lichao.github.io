@@ -13,6 +13,7 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 
 ## News  
 
+- **April 2025**: Serves as the programme committee of *NDSS'26*.
 - **January 2025**: Our paper *"GenHuzz: An Efficient Generative Hardware Fuzzer"* was accepted at *USENIX Security'25*.
 - **January 2025**: Serves as the programme committee of *CCS'25*.
 - **November 2024**: Our paper *"HFL: Hardware Fuzzing Loop with Reinforcement Learning"* was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
