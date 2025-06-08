@@ -13,6 +13,7 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 
 ## News  
 
+- **June 2025**: Serves as the programme committee of *CHES'26*.
 - **April 2025**: Serves as the programme committee of *NDSS'26*.
 - **January 2025**: Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
 - **January 2025**: Serves as the programme committee of *CCS'25*.
