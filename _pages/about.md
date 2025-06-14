@@ -18,7 +18,7 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 - **April 2025**: Serves as the programme committee of *NDSS'26*.
 - **January 2025**: Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
 - **January 2025**: Serves as the programme committee of *CCS'25*.
-- **November 2024**: Our paper *"HFL: Hardware Fuzzing Loop with Reinforcement Learning"* was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
+- **November 2024**: Our paper [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080) was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
 - **October 2024**: Serves as the programme committee of *USENIX Security'25*.
 - **August 2024**: Our paper [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
   Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4) was accepted at *ASIACRYPT'24*.
