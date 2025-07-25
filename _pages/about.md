@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher in the System Security Lab at TU Darmst
 Alongside my academic research, I worked at 80% FTE as a Principal Security Evaluator at SGS Brightsight, the Netherlands (2017–2024). In this role, I led or was involved in several CC EAL5+ security evaluations from globally leading IC designers, focusing on their hardware and software implementation security. Additionally, I led R&D initiatives and collaborated with universities worldwide on research and innovation.
 
 ## News  
-
+- **July 2025**: Our paper *"μFuzz: Microcode-Guided Post-Silicon x86 CPU Fuzzer"* (to appear) was accepted at *NDSS'26*.
 - **January 2025**: Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
 - **November 2024**: Our paper [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080) was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
 - **August 2024**: Our paper [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
