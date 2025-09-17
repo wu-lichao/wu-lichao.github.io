@@ -13,7 +13,7 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 
 ## News  
 
-- **July 2025**: Our paper *"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"* (to appear) was accepted at *NDSS'26*. 
+- **July 2025**: Our paper [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/pdf/2509.11864) was accepted at *NDSS'26*. 
 - **July 2025**: Our paper *"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"* (to appear) was accepted at *NDSS'26*.
 - **July 2025**: Our paper *"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"* (to appear) was accepted at *NDSS'26*.
 - **January 2025**: Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
