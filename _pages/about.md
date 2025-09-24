@@ -27,7 +27,8 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 
 ## Services
 
-- **September 2025**: Co-chairing the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
+- **October 2025**: Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
+- **September 2025**: Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
 - **June 2025**: Serves as the programme committee of *USENIX Security'26*.
 - **June 2025**: Serves as the programme committee of *CHES'26*.
 - **April 2025**: Serves as the programme committee of *NDSS'26*.
