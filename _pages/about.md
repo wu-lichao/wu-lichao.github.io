@@ -11,7 +11,7 @@ I am currently a postdoctoral researcher in the System Security Lab at TU Darmst
 
 Alongside my academic research, I worked at 80% FTE as a Principal Security Evaluator at SGS Brightsight, the Netherlands (2017–2024). In this role, I led or was involved in several CC EAL5+ security evaluations from globally leading IC designers, focusing on their hardware and software implementation security. Additionally, I led R&D initiatives and collaborated with universities worldwide on research and innovation.
 
-## News  
+## Papers  
 
 - **July 2025**: Our paper [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/pdf/2509.11864) was accepted at *NDSS'26*. 
 - **July 2025**: Our paper *"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"* (to appear) was accepted at *NDSS'26*.
@@ -25,12 +25,14 @@ Alongside my academic research, I worked at 80% FTE as a Principal Security Eval
 - **July 2024**: Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
 - **April 2024**: Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24*.
 
-## Services
+## Activities & Services
 
 - **October 2025**: Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
 - **September 2025**: Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
+- **September 2025**: Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
 - **June 2025**: Serves as the programme committee of *USENIX Security'26*.
 - **June 2025**: Serves as the programme committee of *CHES'26*.
 - **April 2025**: Serves as the programme committee of *NDSS'26*.
+- **March 2025**: Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with DATE 2025, collaborated with Intel and Texas A&M University.
 - **January 2025**: Serves as the programme committee of *CCS'25*.
 - **October 2024**: Serves as the programme committee of *USENIX Security'25*.
