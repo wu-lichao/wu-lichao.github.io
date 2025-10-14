@@ -13,26 +13,26 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 
 ## Papers  
 
-- **July 2025**: Our paper [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/pdf/2509.11864) was accepted at *NDSS'26*. 
-- **July 2025**: Our paper *"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"* (to appear) was accepted at *NDSS'26*.
-- **July 2025**: Our paper *"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"* (to appear) was accepted at *NDSS'26*.
-- **January 2025**: Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
-- **November 2024**: Our paper [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080) was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
-- **August 2024**: Our paper [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
-  Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4) was accepted at *ASIACRYPT'24*.
-- **July 2024**: Our paper [*"Leakage Model-flexible Deep Learning-based Side-channel
-  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
-- **July 2024**: Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
-- **April 2024**: Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24*.
+- *[2025.07]* Our paper [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/pdf/2509.11864) was accepted at **NDSS'26**. 
+- *[2025.07]* Our paper *"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"* (to appear) was accepted at **NDSS'26**.
+- *[2025.07]* Our paper *"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"* (to appear) was accepted at **NDSS'26**.
+- *[2025.01]* Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at **USENIX Security'25**.
+- *[2024.11]* Our paper [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080) was accepted at **Design, Automation and Test in Europe Conference (DATE)'25**.
+- *[2024.08]* Our paper [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
+  Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4) was accepted at **ASIACRYPT'24**.
+- *[2024.07]* Our paper [*"Leakage Model-flexible Deep Learning-based Side-channel
+  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf) was accepted at **IACR Communications in Cryptology (CiC)'24**.
+- *[2024.07]* Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at **IACR Communications in Cryptology (CiC)'24**.
+- *[2024.04]* Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at **IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24**.
 
 ## Activities & Services
 
-- **October 2025**: Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
-- **September 2025**: Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
-- **September 2025**: Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
-- **June 2025**: Serves as the programme committee of *USENIX Security'26*.
-- **June 2025**: Serves as the programme committee of *CHES'26*.
-- **April 2025**: Serves as the programme committee of *NDSS'26*.
-- **March 2025**: Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with DATE 2025, collaborated with Intel and Texas A&M University.
-- **January 2025**: Serves as the programme committee of *CCS'25*.
-- **October 2024**: Serves as the programme committee of *USENIX Security'25*.
+- *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
+- *[2025.09]* Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
+- *[2025.09]* Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
+- *[2025.06]* Serves as the programme committee of *USENIX Security'26*.
+- *[2025.06]* Serves as the programme committee of *CHES'26*.
+- *[2025.04]* Serves as the programme committee of *NDSS'26*.
+- *[2025.03]* Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with DATE 2025, collaborated with Intel and Texas A&M University.
+- *[2025.01]* Serves as the programme committee of *CCS'25*.
+- *[2024.10]* Serves as the programme committee of *USENIX Security'25*.
