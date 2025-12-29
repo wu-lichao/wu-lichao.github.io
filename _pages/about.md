@@ -14,7 +14,7 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 ## Papers  
 
 - *[2025.12]* Our paper [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008) was accepted at *USENIX Security'26*.
-- *[2025.07]* Our paper [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/pdf/2509.11864) was accepted at *NDSS'26*. 
+- *[2025.07]* Our paper [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/abs/2509.11864) was accepted at *NDSS'26*. 
 - *[2025.07]* Our paper *"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"* (to appear) was accepted at *NDSS'26*.
 - *[2025.07]* Our paper [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.arxiv.org/abs/2512.21524) was accepted at *NDSS'26*.
 - *[2025.01]* Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
