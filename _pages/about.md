@@ -26,6 +26,8 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 - *[2024.07]* Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
 - *[2024.04]* Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24*.
 
+Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for more papers.
+
 ## Activities & Services
 
 - *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
