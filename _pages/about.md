@@ -18,13 +18,13 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 - *[2025.07]* Our paper *"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"* (to appear) was accepted at *NDSS'26*.
 - *[2025.07]* Our paper [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.arxiv.org/abs/2512.21524) was accepted at *NDSS'26*.
 - *[2025.01]* Our paper [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) was accepted at *USENIX Security'25*.
-- *[2024.11]* Our paper [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080) was accepted at *Design, Automation and Test in Europe Conference (DATE)'25*.
+- *[2024.11]* Our paper [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080) was accepted at *DATE'25*.
 - *[2024.08]* Our paper [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
   Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4) was accepted at *ASIACRYPT'24*.
 - *[2024.07]* Our paper [*"Leakage Model-flexible Deep Learning-based Side-channel
-  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
-- *[2024.07]* Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at *IACR Communications in Cryptology (CiC)'24*.
-- *[2024.04]* Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)'24*.
+  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf) was accepted at *IACR CiC'24*.
+- *[2024.07]* Our paper [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf) was accepted at *IACR CiC'24*.
+- *[2024.04]* Our paper [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738) was accepted at *IACR TCHES'24*.
 
 Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for more papers.
 
