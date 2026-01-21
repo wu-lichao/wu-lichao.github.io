@@ -12,14 +12,14 @@ I am currently a postdoctoral researcher in the System Security Lab at TU Darmst
 Alongside my academic research, I worked as a Principal Security Evaluator at SGS Brightsight, the Netherlands (2017–2024). In this role, I led or was involved in several CC EAL5+ security evaluations from globally leading IC designers, focusing on their hardware and software implementation security. Additionally, I led R&D initiatives and collaborated with universities worldwide on research and innovation.
 
 ## Papers  
-#### 2025
+### 2025
 - [USENIX Sec] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008)
 - [Security for Space Systems (3S)] [*AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms"*](https://security4space.esa.int/2025/papers/46/)
 - [NDSS] [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/abs/2509.11864)
 - [NDSS] [*"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"*](https://arxiv.org/abs/2512.23438)
 - [NDSS] [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.arxiv.org/abs/2512.21524)
 - [USENIX Sec] [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao)
-#### 2024
+### 2024
 - [DATE] [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080)
 - [ASIACRYPT] [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
   Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4)
@@ -27,7 +27,7 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
   Analysis"*](https://cic.iacr.org/p/1/3/41/pdf)
 - [IACR CiC] [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf)
 - [IACR TCHES] [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738)
-#### 2023 & earlier (selected)
+### 2023 & earlier (selected)
 - [IEEE TIFS] [*"Label correlation in deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10155470)
 - [IEEE TDSC] [*"Ablation analysis for multi-device deep learning-based physical side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10130619)
 - [ACM Computing Surveys] [*"Sok: Deep learning-based physical side-channel analysis"*](https://dl.acm.org/doi/full/10.1145/3569577)
