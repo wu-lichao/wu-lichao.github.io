@@ -13,32 +13,32 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 
 ## Papers  
 ### 2025
-- [USENIX Sec] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008)
-- [Security for Space Systems (3S)] [*AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms"*](https://security4space.esa.int/2025/papers/46/)
-- [NDSS] [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/abs/2509.11864)
-- [NDSS] [*"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"*](https://arxiv.org/abs/2512.23438)
-- [NDSS] [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.arxiv.org/abs/2512.21524)
-- [USENIX Sec] [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao)
+- [**USENIX Sec**] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, and Ahmad-Reza Sadeghi.
+- [**Security for Space Systems (3S)**] [*AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms"*](https://security4space.esa.int/2025/papers/46/). Huimin Li, Vusal Novruzov, Nikhilesh Singh, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi.
+- [**NDSS**] [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/abs/2509.11864). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Maximilian Thang, Stjepan Picek, and  Ahmad-Reza Sadeghi.
+- [**NDSS**] [*"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"*](https://arxiv.org/abs/2512.23438). Johannes Lenzen, Mohamadreza Rostami, Lichao Wu, and Ahmad-Reza Sadeghi.
+- [**NDSS**] [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.arxiv.org/abs/2512.21524). Lichao Wu, Mohamadreza Rostami, Huimin Li, Nikhilesh Singh, and Ahmad-Reza Sadeghi.
+- [**USENIX Sec**] [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao). Lichao Wu, Mohamadreza Rostami, Huimin Li, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi.
 
 ### 2024
-- [DATE] [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080)
-- [ASIACRYPT] [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
-  Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4)
-- [IACR CiC] [*"Leakage Model-flexible Deep Learning-based Side-channel
+- [**DATE**] [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080). Lichao Wu, Mohamadreza Rostami, Huimin Li, and Ahmad-Reza Sadeghi.
+- [**ASIACRYPT**] [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
+  Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4). Sengim Karayalçın, Marina Krček, Lichao Wu, Stjepan Picek, and Guilherme Perin.
+- [**IACR CiC**] [*"Leakage Model-flexible Deep Learning-based Side-channel
   Analysis"*](https://cic.iacr.org/p/1/3/41/pdf)
-- [IACR CiC] [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf)
-- [IACR TCHES] [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738)
+- [**IACR CiC**] [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf)
+- [**IACR TCHES**] [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738)
 
 ### 2023 & earlier (selected)
-- [IEEE TIFS] [*"Label correlation in deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10155470)
-- [IEEE TDSC] [*"Ablation analysis for multi-device deep learning-based physical side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10130619)
-- [ACM Computing Surveys] [*"Sok: Deep learning-based physical side-channel analysis"*](https://dl.acm.org/doi/full/10.1145/3569577)
-- [IEEE TETC] [*"I choose you: Automated hyperparameter tuning for deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/9940958)
-- [IACR TCHES] [*"Exploring feature selection scenarios for deep learning-based side-channel analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/9842)
-- [IACR TCHES] [*"The best of two worlds: Deep learning-assisted template attack"*](https://tches.iacr.org/index.php/TCHES/article/view/9707)
-- [IACR TCHES] [*"Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/8989)
-- [IACR TCHES] [*"Remove some noise: On pre-processing of side-channel measurements with autoencoders"*](https://tches.iacr.org/index.php/TCHES/article/view/8688)
-- [CT-RSA] [*"A Fast Characterization Method for Semi-invasive Fault Injection Attacks"*](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_8)
+- [**IEEE TIFS**] [*"Label correlation in deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10155470)
+- [**IEEE TDSC**] [*"Ablation analysis for multi-device deep learning-based physical side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10130619)
+- [**ACM Computing Surveys**] [*"Sok: Deep learning-based physical side-channel analysis"*](https://dl.acm.org/doi/full/10.1145/3569577)
+- [**IEEE TETC**] [*"I choose you: Automated hyperparameter tuning for deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/9940958)
+- [**IACR TCHES**] [*"Exploring feature selection scenarios for deep learning-based side-channel analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/9842)
+- [**IACR TCHES**] [*"The best of two worlds: Deep learning-assisted template attack"*](https://tches.iacr.org/index.php/TCHES/article/view/9707)
+- [**ACR TCHES**] [*"Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/8989)
+- [**IACR TCHES**] [*"Remove some noise: On pre-processing of side-channel measurements with autoencoders"*](https://tches.iacr.org/index.php/TCHES/article/view/8688)
+- [**CT-RSA**] [*"A Fast Characterization Method for Semi-invasive Fault Injection Attacks"*](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_8)
 
 Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for more papers.
 
