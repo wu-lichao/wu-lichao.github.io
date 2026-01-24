@@ -23,22 +23,22 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 ### 2024
 - [**DATE**] [*"HFL: Hardware Fuzzing Loop with Reinforcement Learning"*](https://ieeexplore.ieee.org/document/10993080). Lichao Wu, Mohamadreza Rostami, Huimin Li, and Ahmad-Reza Sadeghi.
 - [**ASIACRYPT**] [*"It’s a Kind of Magic: A Novel Conditional GAN Framework for
-  Efficient Profiling Side-channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4). Sengim Karayalçın, Marina Krček, Lichao Wu, Stjepan Picek, and Guilherme Perin.
-- [**IACR CiC**] [*"Leakage Model-flexible Deep Learning-based Side-channel
-  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf)
-- [**IACR CiC**] [*"Plaintext-based Side-channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf)
-- [**IACR TCHES**] [*"Weakly Profiling Side-channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738)
+  Efficient Profiling Side-Channel Analysis"*](https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4). Sengim Karayalçın, Marina Krček, Lichao Wu, Stjepan Picek, and Guilherme Perin.
+- [**IACR CiC**] [*"Leakage Model-Flexible Deep Learning-based Side-channel
+  Analysis"*](https://cic.iacr.org/p/1/3/41/pdf). Lichao Wu, Azade Rezaeezade, Amir Ali-pour, Guilherme Perin, and Stjepan Picek.
+- [**IACR CiC**] [*"Plaintext-based Side-Channel Collision Attack"*](https://cic.iacr.org/p/1/3/20/pdf). Lichao Wu, Sébastien Tiran, Guilherme Perin, and Stjepan Picek.
+- [**IACR TCHES**] [*"Weakly Profiling Side-Channel Analysis"*](https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738). Lichao Wu, Guilherme Perin, and Stjepan Picek.
 
 ### 2023 & earlier (selected)
-- [**IEEE TIFS**] [*"Label correlation in deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10155470)
-- [**IEEE TDSC**] [*"Ablation analysis for multi-device deep learning-based physical side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/10130619)
-- [**ACM Computing Surveys**] [*"Sok: Deep learning-based physical side-channel analysis"*](https://dl.acm.org/doi/full/10.1145/3569577)
-- [**IEEE TETC**] [*"I choose you: Automated hyperparameter tuning for deep learning-based side-channel analysis"*](https://ieeexplore.ieee.org/abstract/document/9940958)
-- [**IACR TCHES**] [*"Exploring feature selection scenarios for deep learning-based side-channel analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/9842)
-- [**IACR TCHES**] [*"The best of two worlds: Deep learning-assisted template attack"*](https://tches.iacr.org/index.php/TCHES/article/view/9707)
-- [**ACR TCHES**] [*"Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/8989)
-- [**IACR TCHES**] [*"Remove some noise: On pre-processing of side-channel measurements with autoencoders"*](https://tches.iacr.org/index.php/TCHES/article/view/8688)
-- [**CT-RSA**] [*"A Fast Characterization Method for Semi-invasive Fault Injection Attacks"*](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_8)
+- [**IEEE TIFS**] [*"Label Correlation in Deep Learning-based Side-Channel Analysis"*](https://ieeexplore.ieee.org/abstract/document/10155470). Lichao Wu, Léo Weissbart, Marina Krček, Huimin Li, Guilherme Perin, Lejla Batina, and Stjepan Picek.
+- [**IEEE TDSC**] [*"Ablation Analysis for Multi-Device Deep Learning-based Physical Side-Channel Analysis"*](https://ieeexplore.ieee.org/abstract/document/10130619). Lichao Wu, Yoo-Seung Won, Dirmanto Jap, Guilherme Perin, Shivam Bhasin, and Stjepan Picek.
+- [**ACM Computing Surveys**] [*"Sok: Deep Learning-based Physical Side-Channel Analysis"*](https://dl.acm.org/doi/full/10.1145/3569577). Stjepan Picek, Guilherme Perin, Luca Mariot, Lichao Wu, and Lejla Batina.
+- [**IEEE TETC**] [*"I Choose You: Automated Hyperparameter Tuning for Deep Learning-based Side-Channel Analysis"*](https://ieeexplore.ieee.org/abstract/document/9940958). Lichao Wu, Guilherme Perin, and Stjepan Picek.
+- [**IACR TCHES**] [*"Exploring Feature Selection Scenarios for Deep Learning-based Side-Channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/9842). Guilherme Perin, Lichao Wu, and Stjepan Picek
+- [**IACR TCHES**] [*"The Best of Two Worlds: Deep Learning-Assisted Template Attack"*](https://tches.iacr.org/index.php/TCHES/article/view/9707). Lichao Wu, Guilherme Perin, and Stjepan Picek.
+- [**ACR TCHES**] [*"Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/8989). Jorai Rijsdijk, Lichao Wu, Guilherme Perin, and Stjepan Picek.
+- [**IACR TCHES**] [*"Remove Some Noise: On Pre-Processing of Side-Channel Measurements with Autoencoders"*](https://tches.iacr.org/index.php/TCHES/article/view/8688). Lichao Wu and Stjepan Picek.
+- [**CT-RSA**] [*"A Fast Characterization Method for Semi-Invasive Fault Injection Attacks"*](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_8). Lichao Wu, Gerard Ribera, Noemie Beringuier-Boher, and Stjepan Picek.
 
 Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for more papers.
 
