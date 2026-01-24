@@ -36,7 +36,7 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 - [**IEEE TETC**] [*"I Choose You: Automated Hyperparameter Tuning for Deep Learning-based Side-Channel Analysis"*](https://ieeexplore.ieee.org/abstract/document/9940958). Lichao Wu, Guilherme Perin, and Stjepan Picek.
 - [**IACR TCHES**] [*"Exploring Feature Selection Scenarios for Deep Learning-based Side-Channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/9842). Guilherme Perin, Lichao Wu, and Stjepan Picek
 - [**IACR TCHES**] [*"The Best of Two Worlds: Deep Learning-Assisted Template Attack"*](https://tches.iacr.org/index.php/TCHES/article/view/9707). Lichao Wu, Guilherme Perin, and Stjepan Picek.
-- [**ACR TCHES**] [*"Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/8989). Jorai Rijsdijk, Lichao Wu, Guilherme Perin, and Stjepan Picek.
+- [**IACR TCHES**] [*"Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis"*](https://tches.iacr.org/index.php/TCHES/article/view/8989). Jorai Rijsdijk, Lichao Wu, Guilherme Perin, and Stjepan Picek.
 - [**IACR TCHES**] [*"Remove Some Noise: On Pre-Processing of Side-Channel Measurements with Autoencoders"*](https://tches.iacr.org/index.php/TCHES/article/view/8688). Lichao Wu and Stjepan Picek.
 - [**CT-RSA**] [*"A Fast Characterization Method for Semi-Invasive Fault Injection Attacks"*](https://link.springer.com/chapter/10.1007/978-3-030-40186-3_8). Lichao Wu, Gerard Ribera, Noemie Beringuier-Boher, and Stjepan Picek.
 
