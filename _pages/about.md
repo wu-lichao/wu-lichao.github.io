@@ -14,6 +14,9 @@ My research focuses on AI-augmented physical and micro-architectural hardware se
 Alongside my academic research, I worked as a Principal Security Evaluator at SGS Brightsight, the Netherlands (2017–2024). In this role, I led or was involved in several CC EAL5+ security evaluations from globally leading IC designers, focusing on their hardware and software implementation security. Additionally, I led R&D initiatives and collaborated with universities worldwide on research and innovation.
 
 ## Papers  
+### 2026
+- [arxiv] [*"Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing"*](https://arxiv.org/pdf/2602.08741v1). Jona te Lintelo, Lichao Wu, and Stjepan Picek.
+
 ### 2025
 - [**USENIX Security**] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, and Ahmad-Reza Sadeghi.
 - [**Security for Space Systems (3S)**] [*AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms"*](https://security4space.esa.int/2025/papers/46/). Huimin Li, Vusal Novruzov, Nikhilesh Singh, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi.
