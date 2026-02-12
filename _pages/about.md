@@ -15,6 +15,7 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 
 ## Papers  
 ### 2026
+- [arxiv] [*"GoodVibe: Security-by-Vibe for LLM-Based Code Generation"*](https://arxiv.org/abs/2602.10778). Maximilian Thang, Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, and Ahmad-Reza Sadeghi
 - [arxiv] [*"Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing"*](https://arxiv.org/pdf/2602.08741v1). Jona te Lintelo, Lichao Wu, and Stjepan Picek.
 
 ### 2025
