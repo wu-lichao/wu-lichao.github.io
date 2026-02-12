@@ -17,6 +17,7 @@ Alongside my academic research, I worked as a Principal Security Evaluator at SG
 ### 2026
 - [arxiv] [*"GoodVibe: Security-by-Vibe for LLM-Based Code Generation"*](https://arxiv.org/abs/2602.10778). Maximilian Thang, Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, and Ahmad-Reza Sadeghi
 - [arxiv] [*"Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing"*](https://arxiv.org/pdf/2602.08741v1). Jona te Lintelo, Lichao Wu, and Stjepan Picek.
+- [**IACR CiC**] [*"I Know What Your Layers Did: Layer-wise Explainability of Deep Learning Side-channel Analysis"*](https://cic.iacr.org/p/2/4/22/pdf). Guilherme Perin, Sengim Karayalçin, Lichao Wu, and Stjepan Picek
 
 ### 2025
 - [**USENIX Security**] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, and Ahmad-Reza Sadeghi.
