@@ -53,6 +53,7 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 
 ## Activities & Services
 
+- *[2026.02]* Session chairs at NDSS 2026.
 - *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
 - *[2025.09]* Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
 - *[2025.09]* Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
