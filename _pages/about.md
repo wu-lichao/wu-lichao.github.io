@@ -68,21 +68,10 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 
 ## Open Positions
 
-I am looking for motivated **PhD students** and **postdoctoral researchers** to join my group working on:
-- Hardware security  
-- Secure and trustworthy computing  
-- AI security and safety  
-- Cross-layer security across hardware and AI systems
-  
-### PhD Positions
-- *Fully funded PhD positions* are available through the [CDT in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/) at the University of Bristol.
-- I also welcome students applying through the **China Scholarship Council (CSC)** program.
+I am looking for motivated PhD students and postdoctoral researchers to join my group working on (i) Hardware security; (ii) Secure and trustworthy computing; (iii) AI security and safety; (iv) Cross-layer security across hardware and AI systems.
+- **PhD Positions**: *Fully funded PhD positions* are available through the [CDT in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/) at the University of Bristol. I also welcome students applying through the China Scholarship Council (CSC) program.
+- **Postdoctoral Positions**: I am happy to host postdoctoral researchers applying for independent fellowships. If you plan to apply for a fellowship and your research aligns with my group, feel free to contact me to discuss potential collaboration.
 
-### Postdoctoral Positions
-- I am happy to host **postdoctoral researchers applying for independent fellowships**.  
-- If you plan to apply for a fellowship and your research aligns with our group, feel free to contact me to discuss potential collaboration.
-
-### How to Apply
 If you are interested, please send me an email (lichao[dot]wu[at]bristol[dot]ac[dot]uk) with:
 - CV
 - Transcript (for PhD applicants) with publication list (if available)
