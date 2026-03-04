@@ -63,3 +63,25 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 - *[2025.03]* Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with DATE 2025, collaborated with Intel and Texas A&M University.
 - *[2025.01]* Serves as the programme committee of *CCS'25*.
 - *[2024.10]* Serves as the programme committee of *USENIX Security'25*.
+
+## Open Positions
+
+I am looking for motivated **PhD students** and **postdoctoral researchers** to join my group working on:
+- Hardware security  
+- Secure and trustworthy computing  
+- AI security and safety  
+- Cross-layer security across hardware and AI systems
+  
+### PhD Positions
+- *Fully funded PhD positions* are available through the [CDT in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/) at the University of Bristol.
+- I also welcome students applying through the **China Scholarship Council (CSC)** program.
+
+### Postdoctoral Positions
+- I am happy to host **postdoctoral researchers applying for independent fellowships**.  
+- If you plan to apply for a fellowship and your research aligns with our group, feel free to contact me to discuss potential collaboration.
+
+### How to Apply
+If you are interested, please send me an email (lichao[dot]wu[at]bristol[dot]ac[dot]uk) with:
+- CV
+- Transcript (for PhD applicants) with publication list (if available)
+- A brief description of your research interests
