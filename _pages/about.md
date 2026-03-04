@@ -13,6 +13,8 @@ My research focuses on AI-augmented physical and micro-architectural hardware se
 
 Alongside my academic research, I worked as a Principal Security Evaluator at SGS Brightsight, the Netherlands (2017–2024). In this role, I led or was involved in several CC EAL5+ security evaluations from globally leading IC designers, focusing on their hardware and software implementation security. Additionally, I led R&D initiatives and collaborated with universities worldwide on research and innovation.
 
+$${\color{Blue}\textbf{I am looking for motivated **PhD students** and **postdoctoral researchers** to join my group. Check open positions at the end of the page.}}$$
+
 ## Papers  
 ### 2026
 - [arxiv] [*"NeST: Neuron Selective Tuning for LLM Safety"*](http://arxiv.org/abs/2602.16835). Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi
