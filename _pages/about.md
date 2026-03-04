@@ -55,22 +55,25 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 
 ## Activities & Services
 
-- *[2026.02]* Session chairs at NDSS 2026.
-- *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at ICCAD 2025.
+- *[2026.02]* Session chairs at *NDSS 2026*.
+- *[2026.02]* Invited talk at the *Institute of Software, Chinese Academy of Sciences* (Hosted by Dr. S. Gao)
+- *[2025.11]* Invited talk at the *College of Computer Science and Technology, Zhejiang University* (Hosted by Prof.dr. F. Zhang)
+- *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at *ICCAD 2025*.
 - *[2025.09]* Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
 - *[2025.09]* Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
 - *[2025.06]* Serves as the programme committee of *USENIX Security'26*.
 - *[2025.06]* Serves as the programme committee of *CHES'26*.
 - *[2025.04]* Serves as the programme committee of *NDSS'26*.
-- *[2025.03]* Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with DATE 2025, collaborated with Intel and Texas A&M University.
+- *[2025.03]* Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with *DATE 2025*, collaborated with Intel and Texas A&M University.
 - *[2025.01]* Serves as the programme committee of *CCS'25*.
 - *[2024.10]* Serves as the programme committee of *USENIX Security'25*.
-
+- *[2024.09]* Invited talk at the *School of Cyber Science and Technology, Beijing Institute of Technology* (Hosted by Prof.dr. A. Wang)
+- 
 ## Open Positions
 
 I am looking for motivated PhD students and postdoctoral researchers to join my group working on (i) Hardware security; (ii) Secure and trustworthy computing; (iii) AI security and safety; (iv) Cross-layer security across hardware and AI systems.
-- **PhD Positions**: *Fully funded PhD positions* are available through the [CDT in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/) at the University of Bristol. I also welcome students applying through the China Scholarship Council (CSC) program.
-- **Postdoctoral Positions**: I am happy to host postdoctoral researchers applying for independent fellowships. If you plan to apply for a fellowship and your research aligns with my group, feel free to contact me to discuss potential collaboration.
+- PhD Positions: *Fully funded PhD positions* are available through the [CDT in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/) at the University of Bristol. I also welcome students applying through the China Scholarship Council (CSC) program.
+- Postdoctoral Positions: I am happy to host postdoctoral researchers applying for independent fellowships. If you plan to apply for a fellowship and your research aligns with my group, feel free to contact me to discuss potential collaboration.
 
 If you are interested, please send me an email (lichao[dot]wu[at]bristol[dot]ac[dot]uk) with:
 - CV
