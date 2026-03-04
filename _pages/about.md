@@ -68,7 +68,7 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 - *[2025.01]* Serves as the programme committee of *CCS'25*.
 - *[2024.10]* Serves as the programme committee of *USENIX Security'25*.
 - *[2024.09]* Invited talk at the *School of Cyber Science and Technology, Beijing Institute of Technology* (Hosted by Prof.dr. A. Wang)
-- 
+
 ## Open Positions
 
 I am looking for motivated PhD students and postdoctoral researchers to join my group working on (i) Hardware security; (ii) Secure and trustworthy computing; (iii) AI security and safety; (iv) Cross-layer security across hardware and AI systems.
