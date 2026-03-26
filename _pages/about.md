@@ -27,9 +27,9 @@ I am looking for motivated **PhD students** and **postdoctoral researchers** to 
 ### 2025
 - [**USENIX Security**] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, and Ahmad-Reza Sadeghi.
 - [**Security for Space Systems (3S)**] [*AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms"*](https://ieeexplore.ieee.org/abstract/document/11389611). Huimin Li, Vusal Novruzov, Nikhilesh Singh, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi.
-- [**NDSS**] [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://arxiv.org/abs/2509.11864). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Maximilian Thang, Stjepan Picek, and  Ahmad-Reza Sadeghi.
-- [**NDSS - $${\color{Orange}Distinguished\ Paper\ Award}$$**] [*"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"*](https://arxiv.org/abs/2512.23438). Johannes Lenzen, Mohamadreza Rostami, Lichao Wu, and Ahmad-Reza Sadeghi.
-- [**NDSS**] [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.arxiv.org/abs/2512.21524). Lichao Wu, Mohamadreza Rostami, Huimin Li, Nikhilesh Singh, and Ahmad-Reza Sadeghi.
+- [**NDSS**] [*"NeuroStrike: Neuron-Level Attacks on Aligned LLMs"*](https://www.ndss-symposium.org/ndss-paper/neurostrike-neuron-level-attacks-on-aligned-llms/). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Maximilian Thang, Stjepan Picek, and  Ahmad-Reza Sadeghi.
+- [**NDSS - $${\color{Orange}Distinguished\ Paper\ Award}$$**] [*"Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer"*](https://www.ndss-symposium.org/ndss-paper/fuzzilicon-a-post-silicon-microcode-guided-x86-cpu-fuzzer/). Johannes Lenzen, Mohamadreza Rostami, Lichao Wu, and Ahmad-Reza Sadeghi.
+- [**NDSS**] [*"GoldenFuzz: Generative Golden Reference Hardware Fuzzing"*](https://www.ndss-symposium.org/ndss-paper/goldenfuzz-generative-golden-reference-hardware-fuzzing/). Lichao Wu, Mohamadreza Rostami, Huimin Li, Nikhilesh Singh, and Ahmad-Reza Sadeghi.
 - [**USENIX Security**] [*"GenHuzz: An Efficient Generative Hardware Fuzzer"*](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao). Lichao Wu, Mohamadreza Rostami, Huimin Li, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi.
 
 ### 2024
