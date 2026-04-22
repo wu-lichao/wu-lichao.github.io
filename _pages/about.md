@@ -59,7 +59,7 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 ## Services
 - *[2026.04]* TPC @ *IEEE S&P'27*.
 - *[2026.04]* TPC @ *NDSS'27*.
-- *[2026.02]* Session chairs @ *NDSS 2026*.
+- *[2026.02]* Session chairs @ *NDSS'26*.
 - *[2025.09]* Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
 - *[2025.06]* TPC @ *USENIX Security'26*.
 - *[2025.06]* TPC @ *CHES'26*.
@@ -83,7 +83,7 @@ I am looking for motivated PhD students and postdoctoral researchers to join my 
 ### Postdoctoral Positions
 I am happy to support postdoctoral researchers who are interested in applying for external funding.  Some funding opportunities are listed below:
 - [Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships) - for researchers currently based outside of the UK
-- [Royal Commission 1851 Fellowships](https://royalcommission1851.org/fellowships/research-fellowships) - for reseachers with less than 3 years of post-doc experience
+- [Royal Commission 1851 Fellowships](https://royalcommission1851.org/fellowships/research-fellowships) - for researchers with less than 3 years of post-doc experience
 - [Royal Society University Research Fellowships](https://royalsociety.org/grants-schemes-awards/grants/university-research/) - for researchers based anywhere
 - [EPSRC fellowships](https://www.ukri.org/councils/epsrc/career-and-skills-development/fellowships/) - for researchers based anywhere
 
