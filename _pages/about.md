@@ -56,20 +56,23 @@ I am looking for motivated **PhD students** and **postdoctoral researchers** to 
 
 Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for more papers.
 
-## Activities & Services
-
-- *[2026.02]* Session chairs at *NDSS 2026*.
+## Services
+- *[2026.04]* TPC @ *IEEE S&P'27*.
+- *[2026.04]* TPC @ *NDSS'27*.
+- *[2026.02]* Session chairs @ *NDSS 2026*.
+- *[2025.09]* Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
+- *[2025.06]* TPC @ *USENIX Security'26*.
+- *[2025.06]* TPC @ *CHES'26*.
+- *[2025.04]* TPC @ *NDSS'26*.
+- *[2025.01]* TPC @ *CCS'25*.
+- *[2024.10]* TPC @ *USENIX Security'25*.
+- 
+## Activities
 - *[2026.02]* Invited talk at the *Institute of Software, Chinese Academy of Sciences* (Hosted by Dr. S. Gao)
 - *[2025.11]* Invited talk at the *College of Computer Science and Technology, Zhejiang University* (Hosted by Prof.dr. F. Zhang)
 - *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at *ICCAD 2025*.
-- *[2025.09]* Co-chairs the [*Top Picks in Hardware and Embedded Security*](https://sites.google.com/view/toppickshardwaresec) collocated with ICCAD 2025.
 - *[2025.09]* Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
-- *[2025.06]* Serves as the programme committee of *USENIX Security'26*.
-- *[2025.06]* Serves as the programme committee of *CHES'26*.
-- *[2025.04]* Serves as the programme committee of *NDSS'26*.
 - *[2025.03]* Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with *DATE 2025*, collaborated with Intel and Texas A&M University.
-- *[2025.01]* Serves as the programme committee of *CCS'25*.
-- *[2024.10]* Serves as the programme committee of *USENIX Security'25*.
 - *[2024.09]* Invited talk at the *School of Cyber Science and Technology, Beijing Institute of Technology* (Hosted by Prof.dr. A. Wang)
 
 ## Open Positions
