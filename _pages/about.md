@@ -66,7 +66,7 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 - *[2025.04]* TPC @ *NDSS'26*.
 - *[2025.01]* TPC @ *CCS'25*.
 - *[2024.10]* TPC @ *USENIX Security'25*.
-- 
+
 ## Activities
 - *[2026.02]* Invited talk at the *Institute of Software, Chinese Academy of Sciences* (Hosted by Dr. S. Gao)
 - *[2025.11]* Invited talk at the *College of Computer Science and Technology, Zhejiang University* (Hosted by Prof.dr. F. Zhang)
