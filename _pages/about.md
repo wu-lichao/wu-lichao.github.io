@@ -68,9 +68,10 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 - *[2024.10]* TPC @ *USENIX Security'25*.
 
 ## Activities
+- *[2026.04]* Organizes [*Focus Session*]([https://2025.iccad.com/tutorials](https://date26.date-conference.com/programme#FS05)) at *DATE'26*.
 - *[2026.02]* Invited talk at the *Institute of Software, Chinese Academy of Sciences* (Hosted by Dr. S. Gao)
 - *[2025.11]* Invited talk at the *College of Computer Science and Technology, Zhejiang University* (Hosted by Prof.dr. F. Zhang)
-- *[2025.10]* Gives [*tutorial*](https://2025.iccad.com/tutorials) at *ICCAD 2025*.
+- *[2025.10]* Organizes [*tutorial*](https://2025.iccad.com/tutorials) at *ICCAD'25*.
 - *[2025.09]* Organizes the [*HACK@CHES 2025*](https://hackthesilicon.com/hackches25/) collocated with CHES 2025, collaborated with Intel and Texas A&M University.
 - *[2025.03]* Organizes the [*HACK@DATE 2025*](https://hackthesilicon.com/date25/) collocated with *DATE 2025*, collaborated with Intel and Texas A&M University.
 - *[2024.09]* Invited talk at the *School of Cyber Science and Technology, Beijing Institute of Technology* (Hosted by Prof.dr. A. Wang)
