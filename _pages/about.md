@@ -22,9 +22,10 @@ I am looking for motivated **PhD students** and **postdoctoral researchers** to 
 - [**DATE**] *"What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative AI"* (to appear). Nikhilesh Singh, Mohamadreza Rostami, Lichao Wu, Chen Chen, Stephen Muttathil, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi.
 - [**DAC**] *"AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age of LLMs"* (to appear). Mohamadreza Rostami, Nikhilesh Singh, Stephen Muttathil, Lichao Wu, Chen Chen, Huimin Li, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi.
 - [**IACR CiC**] [*"I Know What Your Layers Did: Layer-wise Explainability of Deep Learning Side-channel Analysis"*](https://cic.iacr.org/p/2/4/22/pdf). Guilherme Perin, Sengim Karayalçin, Lichao Wu, and Stjepan Picek.
+- [arxiv] [*"MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks"*](https://arxiv.org/abs/2604.27818). Jona te Lintelo, Lichao Wu, Marina Krček, Sengim Karayalçin, Stjepan Picek.
 - [arxiv] [*"NeST: Neuron Selective Tuning for LLM Safety"*](http://arxiv.org/abs/2602.16835). Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi.
 - [arxiv] [*"GoodVibe: Security-by-Vibe for LLM-Based Code Generation"*](https://arxiv.org/abs/2602.10778). Maximilian Thang, Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, and Ahmad-Reza Sadeghi.
-- [arxiv] [*"Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing"*](https://arxiv.org/pdf/2602.08741v1). Jona te Lintelo, Lichao Wu, and Stjepan Picek.
+- [arxiv] [*"Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing"*](https://arxiv.org/abs/2602.08741v1). Jona te Lintelo, Lichao Wu, and Stjepan Picek.
 
 ### 2025
 - [**USENIX Security**] [*"GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs"*](https://arxiv.org/abs/2512.21008). Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, and Ahmad-Reza Sadeghi.
