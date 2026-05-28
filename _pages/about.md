@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at the University of Bristol, working in the area of hardware security and AI security. I previously held postdoctoral positions in leading security groups in Europe. I was a postdoctoral researcher in the System Security Lab at TU Darmstadt, Germany, working with [Prof. Dr.-Ing. Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp). Before that, I was a postdoctoral research fellow at Radboud University, led by [Prof. Dr. Joan Daemen](https://cs.ru.nl/~joan/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). I obtained my Ph.D. from TU Delft, the Netherlands, in 2023, under the supervision of [Prof. Dr. ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s).
+I am currently a Lecturer (Assistant Professor) at the University of Bristol, working in the area of hardware security and AI security. I previously held postdoctoral positions in leading security groups in Europe. I was a postdoctoral researcher in the System Security Lab at TU Darmstadt, Germany, working with [Prof. Dr.-Ing. Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp). Before that, I was a postdoctoral research fellow at Radboud University, led by [Prof. Dr. Joan Daemen](https://cs.ru.nl/~joan/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). I obtained my Ph.D. from TU Delft, the Netherlands, in 2023, under the supervision of [Prof. Dr. ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s).
 
 My research focuses on AI-augmented physical and micro-architectural hardware security, as well as AI security. I have published in top-tier security and cryptography venues, including USENIX Security, NDSS, ASIACRYPT, TCHES, and TDSC, and received the Informatics Best PhD Dissertation Award in 2023 and NDSS Distinguished Paper Award in 2026. Several of my works have been referenced in [AIS 46 guidance](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_46_AI_guide.pdf?__blob=publicationFile&v=7) by the German Federal Office for Information Security (BSI), and I have contributed as a main or co-applicant to several EU- and industry-funded projects.
 
@@ -17,6 +17,7 @@ I am looking for motivated **PhD students** and **postdoctoral researchers** to 
 
 ## Papers  
 ### 2026
+- [**USENIX Security**] [*"GoodVibe: Security-by-Vibe for LLM-Based Code Generation"*](https://arxiv.org/abs/2602.10778). Maximilian Thang, Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, and Ahmad-Reza Sadeghi.
 - [**CHES**] [*"SPLASH: SPeculative Leakage-Adaptive Secure Hardware"*](https://eprint.iacr.org/2026/677.pdf). Huimin Li, Mohamadreza Rostami, Pallavi Borkar, Lichao Wu, Ahmad-Reza Sadeghi.
 - [**DATE**] *"Advanced Hybrid Hardware Fuzzing"* (to appear). Chen Chen, Stephen Muttathil, Mohamadreza Rostami, Nikhilesh Singh, Lichao Wu, Ahmad-Reza Sadeghi, and Jeyavijayan Rajendran.
 - [**DATE**] *"What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative AI"* (to appear). Nikhilesh Singh, Mohamadreza Rostami, Lichao Wu, Chen Chen, Stephen Muttathil, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi.
@@ -25,7 +26,6 @@ I am looking for motivated **PhD students** and **postdoctoral researchers** to 
 - [arxiv] [*"RouteHijack: Routing-Aware Attack on Mixture-of-Experts LLMs"*](https://arxiv.org/abs/2605.02946). Zhiyuan Xu, Joseph Gardiner, Sana Belguith, Lichao Wu.
 - [arxiv] [*"MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks"*](https://arxiv.org/abs/2604.27818). Jona te Lintelo, Lichao Wu, Marina Krček, Sengim Karayalçin, Stjepan Picek.
 - [arxiv] [*"NeST: Neuron Selective Tuning for LLM Safety"*](http://arxiv.org/abs/2602.16835). Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi.
-- [arxiv] [*"GoodVibe: Security-by-Vibe for LLM-Based Code Generation"*](https://arxiv.org/abs/2602.10778). Maximilian Thang, Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, and Ahmad-Reza Sadeghi.
 - [arxiv] [*"Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing"*](https://arxiv.org/abs/2602.08741v1). Jona te Lintelo, Lichao Wu, and Stjepan Picek.
 
 ### 2025
