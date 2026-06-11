@@ -59,6 +59,7 @@ I am looking for motivated **PhD students** and **postdoctoral researchers** to 
 Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for more papers.
 
 ## Services
+- *[2026.06]* TPC @ *HOST'27*.
 - *[2026.06]* TPC @ *USENIX Security'27*.
 - *[2026.05]* TPC @ *DATE'27*.
 - *[2026.04]* TPC @ *ACTIVE workshop, collocated with CCS'26*.
