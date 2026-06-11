@@ -62,6 +62,7 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 - *[2026.06]* TPC @ *HOST'27*.
 - *[2026.06]* TPC @ *USENIX Security'27*.
 - *[2026.05]* TPC @ *DATE'27*.
+- *[2026.05]* TPC @ *S&P'27*.
 - *[2026.04]* TPC @ *ACTIVE workshop, collocated with CCS'26*.
 - *[2026.04]* Workshop chair @ *NDSS'27*, together with [Christophe Hauser](https://faculty-directory.dartmouth.edu/christophe-hauser) and [Giovanni Apruzzese](https://www.giovanniapruzzese.com/).
 - *[2026.04]* TPC @ *NDSS'27*.
