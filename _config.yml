@@ -9,7 +9,7 @@ author:
   avatar: "/assets/images/profile.jpg"
   affiliations:
     - "University of Bristol"
-  location: "Bristol, UK"
+  # location: "Bristol, UK"
   email: "lichao.wu@bristol.ac.uk"
   links:
     - label: "Google Scholar"
