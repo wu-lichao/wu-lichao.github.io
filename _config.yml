@@ -1,0 +1,45 @@
+title: "Lichao Wu"
+description: "Assistant Professor, University of Bristol"
+url: "https://wu-lichao.github.io"
+baseurl: ""
+
+author:
+  name: "Lichao Wu"
+  tagline: "Hardware Security · AI Security"
+  avatar: "/assets/images/profile.jpg"
+  affiliations:
+    - "University of Bristol"
+  location: "Bristol, UK"
+  email: "lichao.wu@bristol.ac.uk"
+  links:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/lichao-wu"
+    - label: "Bristol profile"
+      url: "https://www.bristol.ac.uk/research/groups/cyber-security/people/core-team/"
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Service"
+    url: "/service/"
+  - title: "Positions"
+    url: "/positions/"
+
+collections:
+  teaching:
+    output: false
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
