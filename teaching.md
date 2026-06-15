@@ -6,8 +6,6 @@ permalink: /teaching/
 
 <section class="section" markdown="1">
 
-# Teaching
-
 {% for course in site.teaching %}
 ## {{ course.title }}
 *{{ course.type }}, {{ course.venue }}, {{ course.location }} — {{ course.date | date: "%B %Y" }}*

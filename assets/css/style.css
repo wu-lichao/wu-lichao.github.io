@@ -131,9 +131,53 @@ li{margin:5px 0}
 }
 .kv{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:6px}
 
-.pub-item{margin:10px 0}
-.pub-title{font-weight:700}
-.pub-meta{color:var(--muted); font-size:14px}
+/* Publication list */
+ul.pubs{list-style:none; margin:0 0 8px; padding:0}
+ul.pubs li.pub{
+  padding:12px 0;
+  border-bottom:1px solid var(--border);
+  font-size:15px;
+  line-height:1.55;
+}
+ul.pubs li.pub:last-child{border-bottom:none}
+.venue{
+  display:inline-block;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size:11.5px;
+  font-weight:600;
+  letter-spacing:.3px;
+  color:var(--accent);
+  white-space:nowrap;
+  margin-right:8px;
+}
+.venue.award{color:#b25e00}
+.title-paper{font-style:italic; color:var(--text)}
+a.title-paper{color:var(--link)}
+.status{color:var(--muted); font-size:14px}
+.authors{display:block; color:var(--muted); font-size:13.5px; margin-top:3px}
+.authors .me{font-weight:700; color:var(--text); font-style:normal}
+
+/* Service / activities timeline */
+ul.timeline{list-style:none; margin:0; padding:0}
+ul.timeline li{
+  display:grid;
+  grid-template-columns:90px 1fr;
+  gap:14px;
+  padding:8px 0;
+  border-bottom:1px dotted var(--border);
+  font-size:15px;
+}
+ul.timeline li:last-child{border-bottom:none}
+ul.timeline .when{
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size:12.5px;
+  color:var(--muted);
+  padding-top:2px;
+}
+@media (max-width:600px){
+  ul.timeline li{grid-template-columns:1fr; gap:2px}
+  ul.timeline .when{padding-top:0}
+}
 
 /* Site footer */
 .sitefooter{
