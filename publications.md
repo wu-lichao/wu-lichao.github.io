@@ -6,8 +6,6 @@ permalink: /publications/
 
 <section class="section" markdown="1">
 
-# Publications
-
 Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en) for the full and up-to-date list of papers. Selected papers below.
 
 {% assign pubs_by_year = site.data.publications | group_by: "year" %}

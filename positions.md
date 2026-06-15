@@ -6,8 +6,6 @@ permalink: /positions/
 
 <section class="section" markdown="1">
 
-# Open positions
-
 I am looking for motivated PhD students and postdoctoral researchers to join my group working on (i) hardware security; (ii) secure and trustworthy computing; (iii) AI security and safety; (iv) cross-layer security across hardware and AI systems.
 
 ## PhD positions
