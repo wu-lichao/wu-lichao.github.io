@@ -8,7 +8,7 @@ permalink: /positions/
 
 I am looking for motivated PhD students and postdoctoral researchers to join my group working on (i) hardware security; (ii) secure and trustworthy computing; (iii) AI security and safety; (iv) cross-layer security across hardware and AI systems.
 
-<details class="collapsible" open markdown="1">
+<details class="collapsible" markdown="1">
 <summary>PhD positions</summary>
 
 *Fully funded PhD positions* are available through:

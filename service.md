@@ -16,7 +16,7 @@ permalink: /service/
 </ul>
 </details>
 
-<details class="collapsible">
+<details class="collapsible" open>
 <summary>Activities</summary>
 <ul class="timeline">
 {% assign activities = site.data.service | where: "type", "activity" %}
