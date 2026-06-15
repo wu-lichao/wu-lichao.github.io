@@ -1,5 +1,5 @@
 - year: 2026
-  date: "2026-02"
+  date: "2026-06"
   venue: USENIX Security
   title: 'GoodVibe: Security-by-Vibe for LLM-Based Code Generation'
   link: https://arxiv.org/abs/2602.10778
@@ -12,22 +12,22 @@
   link: https://eprint.iacr.org/2026/677.pdf
   authors: Huimin Li, Mohamadreza Rostami, Pallavi Borkar, Lichao Wu, Ahmad-Reza Sadeghi
 - year: 2026
-  date: "2026-03"
+  date: "2026-05"
   venue: DATE
-  title: Advanced Hybrid Hardware Fuzzing
+  title: Focus Session: Advanced Hybrid Hardware Fuzzing
   status: to appear
   authors: Chen Chen, Stephen Muttathil, Mohamadreza Rostami, Nikhilesh Singh, Lichao
     Wu, Ahmad-Reza Sadeghi, and Jeyavijayan Rajendran
 - year: 2026
-  date: "2026-03"
+  date: "2026-05"
   venue: DATE
-  title: What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative
+  title: Focus Session: What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative
     AI
   status: to appear
   authors: Nikhilesh Singh, Mohamadreza Rostami, Lichao Wu, Chen Chen, Stephen Muttathil,
     Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi
 - year: 2026
-  date: "2026-07"
+  date: "2026-04"
   venue: DAC
   title: 'AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age
     of LLMs'
