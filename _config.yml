@@ -24,8 +24,6 @@ nav:
     url: "/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Teaching"
-    url: "/teaching/"
   - title: "Service"
     url: "/service/"
   - title: "Positions"
