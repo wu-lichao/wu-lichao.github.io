@@ -87,7 +87,12 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 
 I am looking for motivated PhD students and postdoctoral researchers to join my group working on (i) Hardware security; (ii) Secure and trustworthy computing; (iii) AI security and safety; (iv) Cross-layer security across hardware and AI systems.
 ### PhD Positions
-*Fully funded PhD positions* are available through the [CDT in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/) at the University of Bristol. I also welcome students applying through the China Scholarship Council (CSC) program.
+*Fully funded PhD positions* are available through:
+- [EPSRC Centre for Doctoral Training in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/).
+- [University of Bristol Postgraduate Research Scholarships](https://www.bristol.ac.uk/science-engineering/postgraduate-research/pgr-scholarships/)
+- [China Scholarship Council-University of Bristol PhD Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/)
+
+Check out [this link](https://www.bristol.ac.uk/students/support/finances/scholarships/?filterfee_status=&filterstudy_stage=&filterstudy_level=&filterstudy_mode=&filterfunding_category=&sort=Title-Asc&page=1) for more funding routes.
 ### Postdoctoral Positions
 I am happy to support postdoctoral researchers who are interested in applying for external funding.  Some funding opportunities are listed below:
 - [Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships) - for researchers currently based outside of the UK
