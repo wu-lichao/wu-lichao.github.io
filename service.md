@@ -6,6 +6,8 @@ permalink: /service/
 
 <section class="section" markdown="1">
 
+# Service & activities
+
 ## Service
 
 <ul class="timeline">
