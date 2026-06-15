@@ -34,7 +34,7 @@ I am happy to support postdoctoral researchers who are interested in applying fo
 <details class="collapsible" markdown="1">
 <summary>How to apply</summary>
 
-If you are interested in any of the above, please send me an email (lichao[dot]wu[at]bristol[dot]ac[dot]uk) with:
+If you are interested in any of the above, please send me an email with:
 - CV
 - Transcript (for PhD applicants) with publication list (if available)
 - A brief description of your research interests
