@@ -14,14 +14,14 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 {% for group in pubs_by_year %}
 ## {{ group.name }}
 {% for pub in group.items %}
-- {%- if pub.venue == "arxiv" -%}
+{%- if pub.venue == "arxiv" -%}
   [arxiv]
   {%- else -%}
   [**{{ pub.venue }}{% if pub.award %} — {{ pub.award }}{% endif %}**]
   {%- endif -%}
   {%- if pub.link %} [*"{{ pub.title }}"*]({{ pub.link }}){% else %} *"{{ pub.title }}"*{% endif -%}
   {%- if pub.status %} ({{ pub.status }}){% endif -%}
-  . {{ pub.authors }}.
+  . {{ pub.authors }}.<br>
 {% endfor %}
 {% endfor %}
 
