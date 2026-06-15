@@ -1,9 +1,3 @@
 <footer class="sitefooter">
-  <span>{{ site.author.email }}</span>
-  {% for link in site.author.links %}
-  <span class="sep">·</span>
-  <a href="{{ link.url }}">{{ link.label }}</a>
-  {% endfor %}
-  <span class="sep">·</span>
   <span>© {{ site.time | date: '%Y' }} {{ site.author.name }}</span>
 </footer>
