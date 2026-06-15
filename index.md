@@ -5,7 +5,7 @@ permalink: /
 
 <section class="section" markdown="1">
 
-# Hi, I'm Lichao Wu.
+<!-- # Hi, I'm Lichao Wu. -->
 
 I am a Lecturer (Assistant Professor) at the University of Bristol, working on hardware security and AI security. Before that, I was a postdoctoral researcher in the System Security Lab at TU Darmstadt, Germany, working with [Prof. Dr.-Ing. Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), and a postdoctoral research fellow at Radboud University, led by [Prof. Dr. Joan Daemen](https://cs.ru.nl/~joan/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). I obtained my PhD from TU Delft, the Netherlands, in 2023, supervised by [Prof. Dr. ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s).
 
