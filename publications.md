@@ -10,8 +10,8 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 
 {% assign pubs_by_year = site.data.publications | group_by: "year" %}
 {% for group in pubs_by_year %}
-## {{ group.name }}
-
+<details class="collapsible"{% if forloop.first %} open{% endif %}>
+<summary>{{ group.name }}</summary>
 <ul class="pubs">
 {% for pub in group.items %}
 <li class="pub">
@@ -22,6 +22,7 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=1cteIHQAAAAJ
 </li>
 {% endfor %}
 </ul>
+</details>
 {% endfor %}
 
 </section>
