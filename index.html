@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<!--
+  ============================================================================
+  Lichao Wu — personal homepage  (single-file, no build step)
+  ----------------------------------------------------------------------------
+  HOW TO MAINTAIN THIS SITE
+  • Everything lives in this one file. No Jekyll, no Ruby, no SCSS, no build.
+  • Edit the text below, save, commit, push. GitHub Pages serves it as-is.
+  • To ADD A PAPER:   copy one <li class="pub"> ... </li> block in the
+                      Publications section and change the text/link.
+  • To ADD A NEWS / SERVICE / ACTIVITY item: copy one <li> in that section.
+  • Your photo is at images/my_photo.jpg — keep that file in the repo.
+  • Colours / fonts are the CSS variables near the top of <style>.
+  ============================================================================
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lichao Wu</title>
+<meta name="description" content="Lichao Wu — Assistant Professor at the University of Bristol working on hardware security and AI security.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:        #fcfcfb;
+    --surface:   #ffffff;
+    --ink:       #1b1b1a;
+    --muted:     #6c6c66;
+    --faint:     #9a9a93;
+    --line:      #e7e6e1;
+    --accent:    #1f5673;   /* deep petrol blue */
+    --accent-2:  #2d7d9a;
+    --tag:       #355c4a;   /* venue-tag green */
+    --maxw:      1080px;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --serif: "Newsreader", Georgia, "Times New Roman", serif;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth; scroll-padding-top:72px}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--sans); font-size:16px; line-height:1.6;
+    -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+  }
+  a{color:var(--accent); text-decoration:none}
+  a:hover{text-decoration:underline; text-underline-offset:2px}
+
+  /* ---- top nav ---- */
+  nav.top{
+    position:sticky; top:0; z-index:50;
+    background:rgba(252,252,251,.88); backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line);
+  }
+  nav.top .inner{
+    max-width:var(--maxw); margin:0 auto; padding:0 24px;
+    display:flex; align-items:center; gap:8px; height:56px;
+  }
+  nav.top .brand{
+    font-family:var(--serif); font-weight:600; font-size:18px;
+    color:var(--ink); margin-right:auto; letter-spacing:.2px;
+  }
+  nav.top a.link{
+    color:var(--muted); font-size:14px; padding:6px 10px; border-radius:6px;
+  }
+  nav.top a.link:hover{color:var(--ink); background:#f0efe9; text-decoration:none}
+
+  /* ---- layout ---- */
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:40px 24px 80px;
+        display:grid; grid-template-columns:300px 1fr; gap:56px; align-items:start}
+
+  /* ---- sidebar ---- */
+  aside{position:sticky; top:80px}
+  aside .photo{
+    width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:12px;
+    border:1px solid var(--line); background:#eee; display:block;
+  }
+  aside h1{font-family:var(--serif); font-weight:600; font-size:30px; line-height:1.15;
+           margin:20px 0 2px}
+  aside .role{color:var(--muted); font-size:15px; margin:0}
+  aside .tagline{
+    font-family:var(--mono); font-size:12px; letter-spacing:.3px;
+    color:var(--tag); margin:10px 0 0; text-transform:uppercase;
+  }
+  aside .group{margin-top:22px; padding-top:18px; border-top:1px solid var(--line)}
+  aside .group .label{
+    font-family:var(--mono); font-size:11px; letter-spacing:1px; text-transform:uppercase;
+    color:var(--faint); margin:0 0 8px;
+  }
+  aside ul.meta{list-style:none; margin:0; padding:0; font-size:14.5px}
+  aside ul.meta li{margin:5px 0; color:var(--muted); display:flex; gap:8px}
+  aside ul.meta li .ic{width:16px; flex:none; text-align:center; color:var(--faint)}
+
+  /* ---- main ---- */
+  main{min-width:0}
+  section{margin-bottom:48px; scroll-margin-top:72px}
+  main h2{
+    font-family:var(--serif); font-weight:600; font-size:22px; margin:0 0 4px;
+    padding-bottom:8px; border-bottom:1px solid var(--line);
+    display:flex; align-items:baseline; gap:10px;
+  }
+  main h2 .hash{font-family:var(--mono); font-size:13px; color:var(--accent-2); font-weight:400}
+  main p{margin:14px 0; color:#2a2a28}
+  .lead p{font-size:17px}
+
+  .intro-hi{font-family:var(--serif); font-size:32px; font-weight:600; margin:0 0 6px; letter-spacing:.2px}
+
+  /* research chips */
+  .chips{display:flex; flex-wrap:wrap; gap:8px; margin:6px 0 0; padding:0; list-style:none}
+  .chips li{
+    font-size:13.5px; color:var(--ink); background:var(--surface);
+    border:1px solid var(--line); border-radius:999px; padding:5px 12px;
+  }
+
+  /* news / service / activity lists */
+  ul.timeline{list-style:none; margin:8px 0 0; padding:0}
+  ul.timeline li{
+    display:grid; grid-template-columns:108px 1fr; gap:14px;
+    padding:9px 0; border-bottom:1px dotted var(--line); font-size:15px;
+  }
+  ul.timeline li:last-child{border-bottom:none}
+  ul.timeline .when{font-family:var(--mono); font-size:12.5px; color:var(--faint); padding-top:2px}
+
+  /* publications */
+  .year{font-family:var(--mono); font-size:13px; letter-spacing:1px; color:var(--accent);
+        margin:24px 0 8px; font-weight:500}
+  .year:first-of-type{margin-top:14px}
+  ul.pubs{list-style:none; margin:0; padding:0}
+  ul.pubs li.pub{padding:11px 0; border-bottom:1px solid var(--line); font-size:15px; line-height:1.5}
+  ul.pubs li.pub:last-child{border-bottom:none}
+  .venue{
+    font-family:var(--mono); font-size:11.5px; font-weight:500; letter-spacing:.3px;
+    color:var(--tag); white-space:nowrap; margin-right:7px;
+  }
+  .venue.award{color:#b25e00}
+  .title-paper{font-style:italic; color:var(--ink)}
+  .authors{color:var(--muted); display:block; margin-top:2px; font-size:14px}
+  .me{font-weight:600; color:var(--ink); font-style:normal}
+
+  .note{font-size:14.5px; color:var(--muted)}
+
+  /* open positions */
+  .panel{background:var(--surface); border:1px solid var(--line); border-radius:10px;
+         padding:18px 20px; margin-top:14px}
+  .panel h3{font-family:var(--serif); font-size:18px; margin:0 0 8px}
+  .panel ul{margin:6px 0 0; padding-left:20px}
+  .panel ul li{margin:5px 0; font-size:15px}
+
+  footer{
+    max-width:var(--maxw); margin:0 auto; padding:28px 24px 60px;
+    border-top:1px solid var(--line); color:var(--faint); font-size:13px;
+  }
+  footer a{color:var(--muted)}
+
+  /* ---- responsive ---- */
+  @media (max-width:820px){
+    .wrap{grid-template-columns:1fr; gap:36px; padding-top:28px}
+    aside{position:static}
+    aside .photo{max-width:200px}
+    nav.top a.link{display:none}
+    nav.top a.link.keep{display:inline}
+    ul.timeline li{grid-template-columns:1fr; gap:2px}
+    ul.timeline .when{padding-top:0}
+  }
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+
+<nav class="top">
+  <div class="inner">
+    <span class="brand">Lichao Wu</span>
+    <a class="link keep" href="#about">About</a>
+    <a class="link" href="#news">News</a>
+    <a class="link" href="#publications">Publications</a>
+    <a class="link" href="#service">Service</a>
+    <a class="link" href="#positions">Open Positions</a>
+    <a class="link keep" href="#teaching">Teaching</a>
+  </div>
+</nav>
+
+<div class="wrap">
+
+  <!-- ============================ SIDEBAR ============================ -->
+  <aside>
+    <img class="photo" src="images/my_photo.jpg" alt="Lichao Wu">
+    <h1>Lichao Wu</h1>
+    <p class="role">Lecturer (Assistant Professor)</p>
+    <p class="tagline">Hardware Security · AI Security</p>
+
+    <div class="group">
+      <p class="label">Contact</p>
+      <ul class="meta">
+        <li><span class="ic">◎</span> Bristol, UK</li>
+        <li><span class="ic">⬡</span> University of Bristol</li>
+        <li><span class="ic">✉</span> <a href="mailto:lichao.wu@bristol.ac.uk">lichao.wu@bristol.ac.uk</a></li>
+        <li><span class="ic">↗</span> <a href="https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en">Google Scholar</a></li>
+        <li><span class="ic">↗</span> <a href="https://www.linkedin.com/in/lichao-wu">LinkedIn</a></li>
+        <li><span class="ic">↗</span> <a href="https://github.com/wu-lichao">GitHub</a></li>
+      </ul>
+    </div>
+
+    <div class="group">
+      <p class="label">Research</p>
+      <ul class="chips">
+        <li>Hardware security</li>
+        <li>AI security &amp; safety</li>
+        <li>Side-channel analysis</li>
+        <li>Hardware fuzzing</li>
+        <li>LLM security</li>
+        <li>Trustworthy computing</li>
+      </ul>
+    </div>
+  </aside>
+
+  <!-- ============================== MAIN ============================== -->
+  <main>
+
+    <!-- ---- ABOUT ---- -->
+    <section id="about" class="lead">
+      <p class="intro-hi">Hi — I’m Lichao.</p>
+      <p>I am a Lecturer (Assistant Professor) at the <strong>University of Bristol</strong>, working in
+        hardware security and AI security. My research focuses on AI-augmented physical and
+        micro-architectural hardware security, as well as the security and safety of AI systems.</p>
+      <p>I previously held postdoctoral positions in leading security groups in Europe. I was a
+        postdoctoral researcher in the System Security Lab at TU Darmstadt, working with
+        <a href="https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp">Prof. Ahmad-Reza Sadeghi</a>,
+        and before that a postdoctoral fellow at Radboud University, led by
+        <a href="https://cs.ru.nl/~joan/">Prof. Joan Daemen</a> and
+        <a href="https://www.ru.nl/en/people/picek-s">Prof. Stjepan Picek</a>. I obtained my Ph.D. from
+        TU Delft in 2023, supervised by
+        <a href="https://www.tudelft.nl/staff/r.l.lagendijk/">Prof. Inald Lagendijk</a> and
+        <a href="https://www.ru.nl/en/people/picek-s">Prof. Stjepan Picek</a>.</p>
+      <p>I have published in top-tier security and cryptography venues including USENIX Security, NDSS,
+        ASIACRYPT, TCHES, and TDSC, and received the Informatics Best PhD Dissertation Award (2023) and
+        an NDSS Distinguished Paper Award (2026). Several of my works have been referenced in
+        <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_46_AI_guide.pdf?__blob=publicationFile&v=7">AIS 46 guidance</a>
+        by the German Federal Office for Information Security (BSI).</p>
+      <p>Alongside academia, I worked as a Principal Security Evaluator at SGS Brightsight, the
+        Netherlands (2017–2024), leading several CC EAL5+ security evaluations for globally leading IC
+        designers and running R&amp;D initiatives with universities worldwide.</p>
+      <p>I am looking for motivated <strong>PhD students</strong> and <strong>postdoctoral researchers</strong> —
+        see <a href="#positions">open positions</a>.</p>
+    </section>
+
+    <!-- ---- NEWS ---- -->
+    <section id="news">
+      <h2><span class="hash">#</span> What’s new</h2>
+      <ul class="timeline">
+        <li><span class="when">Jun 2026</span><span>New paper <em>“GoodVibe: Security-by-Vibe for LLM-Based Code Generation”</em> accepted to <strong>USENIX Security ’26</strong>.</span></li>
+        <li><span class="when">Apr 2026</span><span>Appointed Workshop Chair for <strong>NDSS ’27</strong>, with Christophe Hauser and Giovanni Apruzzese.</span></li>
+        <li><span class="when">Apr 2026</span><span>Organising a Focus Session at <strong>DATE ’26</strong>.</span></li>
+        <li><span class="when">2026</span><span><em>“Fuzzilicon”</em> received the <strong>Distinguished Paper Award</strong> at NDSS.</span></li>
+        <li><span class="when">Oct 2025</span><span>Organised <strong>HACK@CHES 2025</strong> (with Intel and Texas A&amp;M) and a tutorial at ICCAD ’25.</span></li>
+      </ul>
+    </section>
+
+    <!-- ---- PUBLICATIONS ---- -->
+    <section id="publications">
+      <h2><span class="hash">#</span> Selected publications</h2>
+      <p class="note">A fuller list is on <a href="https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en">Google Scholar</a>.</p>
+
+      <p class="year">2026</p>
+      <ul class="pubs">
+        <li class="pub"><span class="venue">USENIX SEC</span><a class="title-paper" href="https://arxiv.org/abs/2602.10778">GoodVibe: Security-by-Vibe for LLM-Based Code Generation</a><span class="authors">Maximilian Thang, <span class="me">Lichao Wu</span>, Sasha Behrouzi, Mohamadreza Rostami, Jona te Lintelo, Stjepan Picek, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">CHES</span><a class="title-paper" href="https://eprint.iacr.org/2026/677.pdf">SPLASH: SPeculative Leakage-Adaptive Secure Hardware</a><span class="authors">Huimin Li, Mohamadreza Rostami, Pallavi Borkar, <span class="me">Lichao Wu</span>, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">DATE</span><span class="title-paper">Advanced Hybrid Hardware Fuzzing</span> (to appear)<span class="authors">Chen Chen, Stephen Muttathil, Mohamadreza Rostami, Nikhilesh Singh, <span class="me">Lichao Wu</span>, Ahmad-Reza Sadeghi, Jeyavijayan Rajendran</span></li>
+        <li class="pub"><span class="venue">DATE</span><span class="title-paper">What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative AI</span> (to appear)<span class="authors">Nikhilesh Singh, Mohamadreza Rostami, <span class="me">Lichao Wu</span>, Chen Chen, Stephen Muttathil, Jeyavijayan Rajendran, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">DAC</span><span class="title-paper">AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age of LLMs</span> (to appear)<span class="authors">Mohamadreza Rostami, Nikhilesh Singh, Stephen Muttathil, <span class="me">Lichao Wu</span>, Chen Chen, Huimin Li, Jeyavijayan Rajendran, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">IACR CiC</span><a class="title-paper" href="https://cic.iacr.org/p/2/4/22/pdf">I Know What Your Layers Did: Layer-wise Explainability of Deep Learning Side-channel Analysis</a><span class="authors">Guilherme Perin, Sengim Karayalçin, <span class="me">Lichao Wu</span>, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">arXiv</span><a class="title-paper" href="https://arxiv.org/abs/2605.02946">RouteHijack: Routing-Aware Attack on Mixture-of-Experts LLMs</a><span class="authors">Zhiyuan Xu, Joseph Gardiner, Sana Belguith, <span class="me">Lichao Wu</span></span></li>
+        <li class="pub"><span class="venue">arXiv</span><a class="title-paper" href="https://arxiv.org/abs/2604.27818">MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks</a><span class="authors">Jona te Lintelo, <span class="me">Lichao Wu</span>, Marina Krček, Sengim Karayalçin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">arXiv</span><a class="title-paper" href="http://arxiv.org/abs/2602.16835">NeST: Neuron Selective Tuning for LLM Safety</a><span class="authors">Sasha Behrouzi, <span class="me">Lichao Wu</span>, Mohamadreza Rostami, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">arXiv</span><a class="title-paper" href="https://arxiv.org/abs/2602.08741v1">Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing</a><span class="authors">Jona te Lintelo, <span class="me">Lichao Wu</span>, Stjepan Picek</span></li>
+      </ul>
+
+      <p class="year">2025</p>
+      <ul class="pubs">
+        <li class="pub"><span class="venue">USENIX SEC</span><a class="title-paper" href="https://arxiv.org/abs/2512.21008">GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs</a><span class="authors"><span class="me">Lichao Wu</span>, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">3S</span><a class="title-paper" href="https://ieeexplore.ieee.org/abstract/document/11389611">AegisSat: Securing AI-Enabled SoC FPGA Satellite Platforms</a><span class="authors">Huimin Li, Vusal Novruzov, Nikhilesh Singh, <span class="me">Lichao Wu</span>, Mohamadreza Rostami, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">NDSS</span><a class="title-paper" href="https://www.ndss-symposium.org/ndss-paper/neurostrike-neuron-level-attacks-on-aligned-llms/">NeuroStrike: Neuron-Level Attacks on Aligned LLMs</a><span class="authors"><span class="me">Lichao Wu</span>, Sasha Behrouzi, Mohamadreza Rostami, Maximilian Thang, Stjepan Picek, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue award">NDSS ★ Distinguished Paper</span><a class="title-paper" href="https://www.ndss-symposium.org/ndss-paper/fuzzilicon-a-post-silicon-microcode-guided-x86-cpu-fuzzer/">Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer</a><span class="authors">Johannes Lenzen, Mohamadreza Rostami, <span class="me">Lichao Wu</span>, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">NDSS</span><a class="title-paper" href="https://www.ndss-symposium.org/ndss-paper/goldenfuzz-generative-golden-reference-hardware-fuzzing/">GoldenFuzz: Generative Golden Reference Hardware Fuzzing</a><span class="authors"><span class="me">Lichao Wu</span>, Mohamadreza Rostami, Huimin Li, Nikhilesh Singh, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">USENIX SEC</span><a class="title-paper" href="https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao">GenHuzz: An Efficient Generative Hardware Fuzzer</a><span class="authors"><span class="me">Lichao Wu</span>, Mohamadreza Rostami, Huimin Li, Jeyavijayan Rajendran, Ahmad-Reza Sadeghi</span></li>
+      </ul>
+
+      <p class="year">2024</p>
+      <ul class="pubs">
+        <li class="pub"><span class="venue">DATE</span><a class="title-paper" href="https://ieeexplore.ieee.org/document/10993080">HFL: Hardware Fuzzing Loop with Reinforcement Learning</a><span class="authors"><span class="me">Lichao Wu</span>, Mohamadreza Rostami, Huimin Li, Ahmad-Reza Sadeghi</span></li>
+        <li class="pub"><span class="venue">ASIACRYPT</span><a class="title-paper" href="https://dl.acm.org/doi/10.1007/978-981-96-0944-4_4">It’s a Kind of Magic: A Novel Conditional GAN Framework for Efficient Profiling Side-Channel Analysis</a><span class="authors">Sengim Karayalçin, Marina Krček, <span class="me">Lichao Wu</span>, Stjepan Picek, Guilherme Perin</span></li>
+        <li class="pub"><span class="venue">IACR CiC</span><a class="title-paper" href="https://cic.iacr.org/p/1/3/41/pdf">Leakage Model-Flexible Deep Learning-based Side-channel Analysis</a><span class="authors"><span class="me">Lichao Wu</span>, Azade Rezaeezade, Amir Ali-pour, Guilherme Perin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">IACR CiC</span><a class="title-paper" href="https://cic.iacr.org/p/1/3/20/pdf">Plaintext-based Side-Channel Collision Attack</a><span class="authors"><span class="me">Lichao Wu</span>, Sébastien Tiran, Guilherme Perin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">CHES</span><a class="title-paper" href="https://er.ceres.rub.de/index.php/TCHES/article/view/11901/11738">Weakly Profiling Side-Channel Analysis</a><span class="authors"><span class="me">Lichao Wu</span>, Guilherme Perin, Stjepan Picek</span></li>
+      </ul>
+
+      <p class="year">2023 &amp; EARLIER</p>
+      <ul class="pubs">
+        <li class="pub"><span class="venue">TIFS</span><a class="title-paper" href="https://ieeexplore.ieee.org/abstract/document/10155470">Label Correlation in Deep Learning-based Side-Channel Analysis</a><span class="authors"><span class="me">Lichao Wu</span>, Léo Weissbart, Marina Krček, Huimin Li, Guilherme Perin, Lejla Batina, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">TDSC</span><a class="title-paper" href="https://ieeexplore.ieee.org/abstract/document/10130619">Ablation Analysis for Multi-Device Deep Learning-based Physical Side-Channel Analysis</a><span class="authors"><span class="me">Lichao Wu</span>, Yoo-Seung Won, Dirmanto Jap, Guilherme Perin, Shivam Bhasin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">ACM CSUR</span><a class="title-paper" href="https://dl.acm.org/doi/full/10.1145/3569577">SoK: Deep Learning-based Physical Side-Channel Analysis</a><span class="authors">Stjepan Picek, Guilherme Perin, Luca Mariot, <span class="me">Lichao Wu</span>, Lejla Batina</span></li>
+        <li class="pub"><span class="venue">TETC</span><a class="title-paper" href="https://ieeexplore.ieee.org/abstract/document/9940958">I Choose You: Automated Hyperparameter Tuning for Deep Learning-based Side-Channel Analysis</a><span class="authors"><span class="me">Lichao Wu</span>, Guilherme Perin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">CHES</span><a class="title-paper" href="https://tches.iacr.org/index.php/TCHES/article/view/9842">Exploring Feature Selection Scenarios for Deep Learning-based Side-Channel Analysis</a><span class="authors">Guilherme Perin, <span class="me">Lichao Wu</span>, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">CHES</span><a class="title-paper" href="https://tches.iacr.org/index.php/TCHES/article/view/9707">The Best of Two Worlds: Deep Learning-Assisted Template Attack</a><span class="authors"><span class="me">Lichao Wu</span>, Guilherme Perin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">CHES</span><a class="title-paper" href="https://tches.iacr.org/index.php/TCHES/article/view/8989">Reinforcement Learning for Hyperparameter Tuning in Deep Learning-based Side-channel Analysis</a><span class="authors">Jorai Rijsdijk, <span class="me">Lichao Wu</span>, Guilherme Perin, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">CHES</span><a class="title-paper" href="https://tches.iacr.org/index.php/TCHES/article/view/8688">Remove Some Noise: On Pre-Processing of Side-Channel Measurements with Autoencoders</a><span class="authors"><span class="me">Lichao Wu</span>, Stjepan Picek</span></li>
+        <li class="pub"><span class="venue">CT-RSA</span><a class="title-paper" href="https://link.springer.com/chapter/10.1007/978-3-030-40186-3_8">A Fast Characterization Method for Semi-Invasive Fault Injection Attacks</a><span class="authors"><span class="me">Lichao Wu</span>, Gerard Ribera, Noemie Beringuier-Boher, Stjepan Picek</span></li>
+      </ul>
+    </section>
+
+    <!-- ---- SERVICE ---- -->
+    <section id="service">
+      <h2><span class="hash">#</span> Service</h2>
+      <ul class="timeline">
+        <li><span class="when">2026.06</span><span>TPC @ HOST ’27</span></li>
+        <li><span class="when">2026.06</span><span>TPC @ USENIX Security ’27</span></li>
+        <li><span class="when">2026.05</span><span>TPC @ DATE ’27</span></li>
+        <li><span class="when">2026.05</span><span>TPC @ IEEE S&amp;P ’27</span></li>
+        <li><span class="when">2026.04</span><span>TPC @ ACTIVE workshop (with CCS ’26)</span></li>
+        <li><span class="when">2026.04</span><span>Workshop Chair @ NDSS ’27, with <a href="https://faculty-directory.dartmouth.edu/christophe-hauser">Christophe Hauser</a> and <a href="https://www.giovanniapruzzese.com/">Giovanni Apruzzese</a></span></li>
+        <li><span class="when">2026.04</span><span>TPC @ NDSS ’27</span></li>
+        <li><span class="when">2026.02</span><span>Session Chair @ NDSS ’26</span></li>
+        <li><span class="when">2025.09</span><span>Co-chair, <a href="https://sites.google.com/view/toppickshardwaresec">Top Picks in Hardware and Embedded Security</a> (with ICCAD 2025)</span></li>
+        <li><span class="when">2025.06</span><span>TPC @ USENIX Security ’26</span></li>
+        <li><span class="when">2025.06</span><span>TPC @ CHES ’26</span></li>
+        <li><span class="when">2025.04</span><span>TPC @ NDSS ’26</span></li>
+        <li><span class="when">2025.01</span><span>TPC @ CCS ’25</span></li>
+        <li><span class="when">2024.10</span><span>TPC @ USENIX Security ’25</span></li>
+      </ul>
+    </section>
+
+    <!-- ---- ACTIVITIES ---- -->
+    <section id="activities">
+      <h2><span class="hash">#</span> Talks &amp; activities</h2>
+      <ul class="timeline">
+        <li><span class="when">2026.04</span><span>Organises a <a href="https://date26.date-conference.com/programme#FS05">Focus Session</a> at DATE ’26</span></li>
+        <li><span class="when">2026.02</span><span>Invited talk, Institute of Software, Chinese Academy of Sciences (host: Si Gao)</span></li>
+        <li><span class="when">2025.11</span><span>Invited talk, Zhejiang University (host: <a href="https://person.zju.edu.cn/en/fanzhang">Fan Zhang</a>)</span></li>
+        <li><span class="when">2025.10</span><span>Organises a <a href="https://2025.iccad.com/tutorials">tutorial</a> at ICCAD ’25</span></li>
+        <li><span class="when">2025.09</span><span>Organises <a href="https://hackthesilicon.com/hackches25/">HACK@CHES 2025</a> (with Intel &amp; Texas A&amp;M)</span></li>
+        <li><span class="when">2025.03</span><span>Organises <a href="https://hackthesilicon.com/date25/">HACK@DATE 2025</a> (with Intel &amp; Texas A&amp;M)</span></li>
+        <li><span class="when">2024.09</span><span>Invited talk, Beijing Institute of Technology (host: <a href="https://pure.bit.edu.cn/en/persons/an-wang/">An Wang</a>)</span></li>
+      </ul>
+    </section>
+
+    <!-- ---- TEACHING ---- -->
+    <section id="teaching">
+      <h2><span class="hash">#</span> Teaching</h2>
+      <ul class="timeline">
+        <li><span class="when">Bristol</span><span>Operating Systems — University of Bristol</span></li>
+      </ul>
+    </section>
+
+    <!-- ---- OPEN POSITIONS ---- -->
+    <section id="positions">
+      <h2><span class="hash">#</span> Open positions</h2>
+      <p>I am looking for motivated PhD students and postdoctoral researchers to work on
+        (i) hardware security; (ii) secure and trustworthy computing; (iii) AI security and safety;
+        and (iv) cross-layer security across hardware and AI systems.</p>
+
+      <div class="panel">
+        <h3>PhD positions</h3>
+        <p class="note">Fully funded positions are available through:</p>
+        <ul>
+          <li><a href="https://www.bristol.ac.uk/cdt/cyber-security/">EPSRC Centre for Doctoral Training in Cyber Security</a></li>
+          <li><a href="https://www.bristol.ac.uk/science-engineering/postgraduate-research/pgr-scholarships/">University of Bristol Postgraduate Research Scholarships</a></li>
+          <li><a href="https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/">China Scholarship Council – University of Bristol PhD Scholarship</a></li>
+        </ul>
+        <p class="note">More routes on the <a href="https://www.bristol.ac.uk/students/support/finances/scholarships/">Bristol scholarships</a> page.</p>
+      </div>
+
+      <div class="panel">
+        <h3>Postdoctoral positions</h3>
+        <p class="note">I am happy to support fellowship applications, including:</p>
+        <ul>
+          <li><a href="https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships">Marie Skłodowska-Curie Fellowships</a> — for researchers currently outside the UK</li>
+          <li><a href="https://royalcommission1851.org/fellowships/research-fellowships">Royal Commission 1851 Fellowships</a> — &lt; 3 years post-PhD</li>
+          <li><a href="https://royalsociety.org/grants-schemes-awards/grants/university-research/">Royal Society University Research Fellowships</a> — anywhere</li>
+          <li><a href="https://www.ukri.org/councils/epsrc/career-and-skills-development/fellowships/">EPSRC Fellowships</a> — anywhere</li>
+        </ul>
+      </div>
+
+      <p style="margin-top:16px">If you are interested, email me at <strong>lichao [dot] wu [at] bristol [dot] ac [dot] uk</strong> with your CV, a transcript and publication list (for PhD applicants), and a brief description of your research interests.</p>
+    </section>
+
+  </main>
+</div>
+
+<footer>
+  © <span id="yr">2026</span> Lichao Wu · University of Bristol ·
+  <a href="mailto:lichao.wu@bristol.ac.uk">lichao.wu@bristol.ac.uk</a>
+</footer>
+
+<script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+</body>
+</html>
