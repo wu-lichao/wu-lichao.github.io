@@ -1,11 +1,11 @@
 title: "Lichao Wu"
-description: "Assistant Professor, University of Bristol"
+description: "Lecturer (Assistant Professor), University of Bristol"
 url: "https://wu-lichao.github.io"
 baseurl: ""
 
 author:
   name: "Lichao Wu"
-  tagline: "Hardware Security · AI Security"
+  tagline: "Lecturer (Assistant Professor)"
   avatar: "/assets/images/profile.jpg"
   affiliations:
     - "University of Bristol"
