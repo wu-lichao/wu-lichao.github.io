@@ -37,8 +37,7 @@ collections:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-github-metadata
-  
+
 exclude:
   - Gemfile
   - Gemfile.lock
