@@ -246,5 +246,6 @@ ul.timeline .when{
   padding: 24px 24px 40px;
   color: var(--muted);
   font-size: 13px;
+  text-align: center;
 }
 .sitefooter .sep{margin:0 8px}
