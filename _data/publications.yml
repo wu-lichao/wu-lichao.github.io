@@ -15,7 +15,7 @@
   date: "2026-05"
   venue: DATE
   title: Focus Session: Advanced Hybrid Hardware Fuzzing
-  status: to appear
+  status: https://ieeexplore.ieee.org/document/11539167
   authors: Chen Chen, Stephen Muttathil, Mohamadreza Rostami, Nikhilesh Singh, Lichao
     Wu, Ahmad-Reza Sadeghi, and Jeyavijayan Rajendran
 - year: 2026
@@ -23,7 +23,7 @@
   venue: DATE
   title: Focus Session: What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative
     AI
-  status: to appear
+  status: https://ieeexplore.ieee.org/document/11539510
   authors: Nikhilesh Singh, Mohamadreza Rostami, Lichao Wu, Chen Chen, Stephen Muttathil,
     Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi
 - year: 2026
