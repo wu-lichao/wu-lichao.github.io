@@ -1,25 +1,25 @@
 :root{
-  --bg:#fbf9f5;
-  --text:#22252b;
-  --muted:#6b6f76;
-  --border:#e6e1d8;
-  --link:#a3471f;
-  --accent:#a3471f;
-  --navbg:#262220;
-  --navtext:#f1ece4;
+  --bg:#f7f8fa;
+  --text:#1e2228;
+  --muted:#6a7080;
+  --border:#e4e7ec;
+  --link:#1a6b72;
+  --accent:#1a6b72;
+  --navbg:#1e2430;
+  --navtext:#eef1f5;
   --sidebar:280px;
   --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
 }
 @media (prefers-color-scheme: dark){
   :root{
-    --bg:#15141a;
-    --text:#e8e6e1;
-    --muted:#a3a0ad;
-    --border:#332f37;
-    --link:#e08a5f;
-    --accent:#e08a5f;
-    --navbg:#0f0e12;
-    --navtext:#f1ece4;
+    --bg:#13151c;
+    --text:#e4e8ee;
+    --muted:#8b92a5;
+    --border:#252c3a;
+    --link:#4db8c0;
+    --accent:#4db8c0;
+    --navbg:#0c0f16;
+    --navtext:#dde4f0;
   }
 }
 *{box-sizing:border-box}
