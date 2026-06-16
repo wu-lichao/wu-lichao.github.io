@@ -207,7 +207,7 @@ ul.pubs li.pub:last-child{border-bottom:none}
   font-size:11px;
   font-weight:600;
   letter-spacing:.3px;
-  color:var(--muted);
+  color:var(--text);
   background: var(--tag-bg);
   border: 1px solid var(--border);
   border-radius:4px;
@@ -220,7 +220,7 @@ ul.pubs li.pub:last-child{border-bottom:none}
 a.title-paper{color:var(--link)}
 .status{color:var(--muted); font-size:14px}
 .authors{display:block; color:var(--muted); font-size:13.5px; margin-top:3px}
-.authors .me{font-weight:700; color:var(--text-strong); font-style:normal}
+.authors .me{font-weight:700; font-style:normal}
 
 /* Service / activities timeline */
 ul.timeline{list-style:none; margin:0; padding:0}
