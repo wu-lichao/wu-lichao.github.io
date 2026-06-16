@@ -8,6 +8,7 @@
   --navbg:#1e2430;
   --navtext:#eef1f5;
   --text-strong:#0a0c10;
+  --tag-bg:var(--bg);
   --sidebar:280px;
   --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
 }
@@ -21,7 +22,8 @@
     --accent:#4db8c0;
     --navbg:#0c0f16;
     --navtext:#dde4f0;
-    --text-strong:#f4f7fc;
+    --text-strong:#c8cdd8;
+    --tag-bg:#1e2535;
   }
 }
 *{box-sizing:border-box}
@@ -206,7 +208,7 @@ ul.pubs li.pub:last-child{border-bottom:none}
   font-weight:600;
   letter-spacing:.3px;
   color:var(--muted);
-  background: var(--bg);
+  background: var(--tag-bg);
   border: 1px solid var(--border);
   border-radius:4px;
   padding:2px 6px;
