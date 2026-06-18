@@ -15,7 +15,7 @@
   --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
 }
 @media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
+  html:not(.light){
     --bg:#15141a;
     --text:#e8e6e1;
     --muted:#a3a0ad;
@@ -30,7 +30,7 @@
     --award-bg:rgba(240,192,64,.14);
   }
 }
-:root[data-theme="dark"]{
+html.dark{
   --bg:#15141a;
   --text:#e8e6e1;
   --muted:#a3a0ad;
