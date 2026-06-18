@@ -15,7 +15,7 @@
   --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
 }
 @media (prefers-color-scheme: dark){
-  :root{
+  :root:not([data-theme="light"]){
     --bg:#15141a;
     --text:#e8e6e1;
     --muted:#a3a0ad;
@@ -29,6 +29,20 @@
     --award-color:#f0c040;
     --award-bg:rgba(240,192,64,.14);
   }
+}
+:root[data-theme="dark"]{
+  --bg:#15141a;
+  --text:#e8e6e1;
+  --muted:#a3a0ad;
+  --border:#332f37;
+  --link:#e88a4a;
+  --accent:#e88a4a;
+  --navbg:#0f0e12;
+  --navtext:#f1ece4;
+  --text-strong:#c8c4bc;
+  --tag-bg:#1e1c18;
+  --award-color:#f0c040;
+  --award-bg:rgba(240,192,64,.14);
 }
 *{box-sizing:border-box}
 html,body{height:100%; background:var(--bg)}
@@ -69,6 +83,18 @@ a:hover{text-decoration:underline}
 .nav-links{display:flex; flex-wrap:wrap; align-items:center; gap:8px 22px}
 .nav-toggle{display:none}
 .nav-toggle-label{display:none}
+.theme-toggle{
+  background:none;
+  border:none;
+  cursor:pointer;
+  color:var(--navtext);
+  font-size:17px;
+  padding:2px 4px;
+  opacity:.75;
+  line-height:1;
+  flex-shrink:0;
+}
+.theme-toggle:hover{opacity:1}
 
 @media (max-width: 700px){
   .topnav{position:relative}

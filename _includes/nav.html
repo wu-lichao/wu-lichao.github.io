@@ -7,4 +7,5 @@
     <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
     {% endfor %}
   </div>
+  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">☽</button>
 </nav>
