@@ -208,7 +208,7 @@ ul.pubs li.pub:last-child{border-bottom:none}
 .venue{
   display:inline-block;
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-  font-size:11px;
+  font-size:13px;
   font-weight:600;
   letter-spacing:.3px;
   color:var(--text);
