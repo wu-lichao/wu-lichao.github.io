@@ -42,6 +42,12 @@
   link: https://cic.iacr.org/p/2/4/22/pdf
   authors: Guilherme Perin, Sengim Karayalçin, Lichao Wu, and Stjepan Picek
 - year: 2026
+  date: "2026-06"
+  venue: arxiv
+  title: 'SPARK: Security Knowledge Priming and Representation-guided Knowledge Activation for LLM-based Secure Code Generation'
+  link: https://arxiv.org/pdf/2606.16244v1
+  authors: Xiaoyun Xu, Lichao Wu, Jona te Lintelo, Siyu Zhang, and Stjepan Picek
+- year: 2026
   date: "2026-05"
   venue: arxiv
   title: 'RouteHijack: Routing-Aware Attack on Mixture-of-Experts LLMs'
