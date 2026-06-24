@@ -31,9 +31,17 @@
   venue: DAC
   title: 'AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age
     of LLMs'
-  status: to appear
+  link: https://arxiv.org/pdf/2606.15809
   authors: Mohamadreza Rostami, Nikhilesh Singh, Stephen Muttathil, Lichao Wu, Chen
     Chen, Huimin Li, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi
+# - year: 2026
+#   date: "2026-04"
+#   venue: DAC
+#   title: 'AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age
+#     of LLMs'
+#   status: to appear
+#   authors: Mohamadreza Rostami, Nikhilesh Singh, Stephen Muttathil, Lichao Wu, Chen
+#     Chen, Huimin Li, Jeyavijayan Rajendran, and Ahmad-Reza Sadeghi
 - year: 2026
   date: "2026-01"
   venue: IACR CiC
