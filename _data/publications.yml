@@ -1,4 +1,10 @@
 - year: 2026
+  date: "2026-08"
+  venue: arxiv
+  title: 'From Verdict to Diagnosis: Attributable Security Review of Pull Requests'
+  link: https://arxiv.org/abs/2608.25730
+  authors: Zhuo Chen, Boyang Wang, Xiyue Zhang, Xiaoyun Xu, Ahmad-Reza Sadeghi, Stjepan Picek, Lichao Wu
+- year: 2026
   date: "2026-06"
   venue: USENIX Security
   title: 'GoodVibe: Security-by-Vibe for LLM-Based Code Generation'
