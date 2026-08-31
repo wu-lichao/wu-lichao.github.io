@@ -54,6 +54,12 @@
   link: https://arxiv.org/abs/2608.25730
   authors: Zhuo Chen, Boyang Wang, Xiyue Zhang, Xiaoyun Xu, Ahmad-Reza Sadeghi, Stjepan Picek, Lichao Wu
 - year: 2026
+  date: "2026-08"
+  venue: arxiv
+  title: 'PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical Impact?'
+  link: https://arxiv.org/abs/2608.26882
+  authors: Yitian Zhou, Jingyu Zheng, Qiliang Jiang, Linkang Du, Haoming Liu, Lichao Wu, Shiyi Zhao, Mengxiang Liu, Ruilong Deng
+- year: 2026
   date: "2026-06"
   venue: arxiv
   title: 'SPARK: Security Knowledge Priming and Representation-guided Knowledge Activation for LLM-based Secure Code Generation'
