@@ -66,6 +66,14 @@
   type: activity
   text: "Organizes [*Focus Session*](https://date26.date-conference.com/programme#FS05) at *DATE'26*."
 
+- date: "2026-09"
+  type: activity
+  text: "Invited to Join [*Shonan Meeting*](https://shonan.nii.ac.jp/seminars/253/)"
+  
+- date: "2026-09"
+  type: activity
+  text: "Invited talk at the [*Graz Security Week 2026*](https://securityweek.at/)"
+  
 - date: "2026-02"
   type: activity
   text: "Invited talk at the *Institute of Software, Chinese Academy of Sciences* (Hosted by Si Gao)"
