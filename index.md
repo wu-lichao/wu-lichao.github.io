@@ -7,13 +7,16 @@ permalink: /
 
 <!-- # Hi, I'm Lichao Wu. -->
 
-I am a Lecturer (Assistant Professor) at the University of Bristol, working on hardware security and AI security. Before that, I was a postdoctoral researcher in the System Security Lab at TU Darmstadt, Germany, working with [Prof. Dr.-Ing. Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), and a postdoctoral research fellow at Radboud University, led by [Prof. Dr. Joan Daemen](https://cs.ru.nl/~joan/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). I obtained my PhD from TU Delft, the Netherlands, in 2023, supervised by [Prof. Dr. ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s).
+I am a Lecturer (Assistant Professor) at the University of Bristol, where my research focuses on **hardware security and AI security**. In hardware security, I work on physical and microarchitectural attacks and defenses, with a particular interest in using AI to automate and enhance hardware security analysis. In AI security, I study the security and safety of modern AI systems, including large language models, with an emphasis on understanding their internal mechanisms, identifying vulnerabilities, and developing principled defenses.
 
-My research focuses on AI-augmented physical and micro-architectural hardware security, as well as AI security. I have published in top-tier security and cryptography venues, including USENIX Security, NDSS, ASIACRYPT, TCHES, and TDSC. Several of my works have been referenced in [AIS 46 guidance](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_46_AI_guide.pdf?__blob=publicationFile&v=7) by the German Federal Office for Information Security (BSI), and I have contributed as a main or co-applicant to several EU- and industry-funded projects.
+My research has been published in leading security and cryptography venues, including **USENIX Security, NDSS, ASIACRYPT, TCHES, and IEEE TDSC**. Several of my works have been referenced in the [AIS 46 guidance](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_46_AI_guide.pdf?__blob=publicationFile&v=7) of the German Federal Office for Information Security (BSI). I have also contributed as a main or co-applicant to several EU- and industry-funded research projects and am currently a co-founder of two technology startups.
 
-Alongside academia, I worked as a Principal Security Evaluator at SGS Brightsight, the Netherlands (2017–2024), leading CC EAL5+ security evaluations for globally leading IC designers.
+Before joining Bristol, I was a postdoctoral researcher in the System Security Lab at TU Darmstadt, Germany, working with [Prof. Dr.-Ing. Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp). Prior to that, I was a postdoctoral research fellow at Radboud University, working with [Prof. Dr. Joan Daemen](https://cs.ru.nl/~joan/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). I obtained my PhD from TU Delft, the Netherlands, in 2023, under the supervision of [Prof. Dr. ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/) and [Prof. Dr. Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s).
 
-I am looking for motivated **PhD students** and **postdoctoral researchers** to join my group — see [Positions](/positions/) for details.
+Alongside my academic career, I worked at SGS Brightsight in the Netherlands from 2017 to 2024, where I became a **Principal Security Evaluator** and led high-assurance **CC EAL5+** security evaluations for globally leading IC designers.
+
+I am looking for motivated **PhD students** and **postdoctoral researchers** to join my group. Please see [Positions](/positions/) for current opportunities.
+
 
 </section>
 
