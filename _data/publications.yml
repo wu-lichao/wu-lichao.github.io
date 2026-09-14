@@ -1,4 +1,10 @@
 - year: 2026
+  date: "2026-09"
+  venue: S&P
+  title: 'NeST: Neuron Selective Tuning for LLM Safety'
+  link: http://arxiv.org/abs/2602.16835
+  authors: Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi
+- year: 2026
   date: "2026-06"
   venue: USENIX Security
   title: 'GoodVibe: Security-by-Vibe for LLM-Based Code Generation'
@@ -78,12 +84,6 @@
     Masks'
   link: https://arxiv.org/abs/2604.27818
   authors: Jona te Lintelo, Lichao Wu, Marina Krček, Sengim Karayalçin, Stjepan Picek
-- year: 2026
-  date: "2026-02"
-  venue: arxiv
-  title: 'NeST: Neuron Selective Tuning for LLM Safety'
-  link: http://arxiv.org/abs/2602.16835
-  authors: Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi
 - year: 2026
   date: "2026-02"
   venue: arxiv
