@@ -62,6 +62,12 @@
 - year: 2026
   date: "2026-08"
   venue: arxiv
+  title: 'WoE Wrote It? Watermarking Mixture-of-Experts LLMs for Black-Box Text Provenance'
+  link: https://arxiv.org/abs/2608.29151
+  authors: Jona te Lintelo, Lichao Wu, Stjepan Picek
+- year: 2026
+  date: "2026-08"
+  venue: arxiv
   title: 'PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical Impact?'
   link: https://arxiv.org/abs/2608.26882
   authors: Yitian Zhou, Jingyu Zheng, Qiliang Jiang, Linkang Du, Haoming Liu, Lichao Wu, Shiyi Zhao, Mengxiang Liu, Ruilong Deng
