@@ -1,6 +1,6 @@
 - year: 2026
   date: "2026-09"
-  venue: S&P
+  venue: IEEE S&P
   title: 'NeST: Neuron Selective Tuning for LLM Safety'
   link: http://arxiv.org/abs/2602.16835
   authors: Sasha Behrouzi, Lichao Wu, Mohamadreza Rostami, and Ahmad-Reza Sadeghi
@@ -173,14 +173,14 @@
   authors: Lichao Wu, Guilherme Perin, and Stjepan Picek
 - year: 2023
   date: "2023-06"
-  venue: TIFS
+  venue: IEEE TIFS
   title: Label Correlation in Deep Learning-based Side-Channel Analysis
   link: https://ieeexplore.ieee.org/abstract/document/10155470
   authors: Lichao Wu, Léo Weissbart, Marina Krček, Huimin Li, Guilherme Perin, Lejla
     Batina, and Stjepan Picek
 - year: 2023
   date: "2023-05"
-  venue: TDSC
+  venue: IEEE TDSC
   title: Ablation Analysis for Multi-Device Deep Learning-based Physical Side-Channel
     Analysis
   link: https://ieeexplore.ieee.org/abstract/document/10130619
