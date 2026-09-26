@@ -1,5 +1,11 @@
 - year: 2026
   date: "2026-09"
+  venue: NDSS
+  title: 'Fast Inference, Faster Leakage: Datastore Extraction from Speculative Decoding in LLMs'
+  link: To appear
+  authors: Nikhilesh Singh, Mohamadreza Rostami, Lichao Wu, Huimin Li, and Ahmad-Reza Sadeghi
+- year: 2026
+  date: "2026-09"
   venue: IEEE S&P
   title: 'NeST: Neuron Selective Tuning for LLM Safety'
   link: http://arxiv.org/abs/2602.16835
